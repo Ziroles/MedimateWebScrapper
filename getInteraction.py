@@ -13,9 +13,13 @@ def gethtmlContent(url):
 def htmlParser(content):
     soup = BeautifulSoup(content, 'html.parser')
     res = ""
+    med = ""
+    
     for link in soup.find_all('p'):
         res += link.text + "\n"
+    
     return res
+
 
 def getContre_indications(content):
     if "4.5. Interactions avec d'autres médicaments et autres formes d'interactions" not in content:
