@@ -1,6 +1,6 @@
 import json
 
-with open('data/medicinebymedicine.json', 'r') as f:
+with open('resultats.json', 'r') as f:
     medicine = json.load(f)
 
 
