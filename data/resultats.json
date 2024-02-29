@@ -1,0 +1,6071 @@
+{
+    "ABATACEPT": [
+        "ANTI-TNF",
+        "ALPHA",
+        "VACCINS",
+        "VIVANTS",
+        "ATT\u00c9NU\u00c9S"
+    ],
+    "ABIRATERONE": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "METOPROLOL",
+        "PROPAFENONE",
+        "RIFAMPICINE"
+    ],
+    "ABROCITINIB": [
+        "FLUCONAZOLE",
+        "FLUVOXAMINE"
+    ],
+    "ACETAZOLAMIDE": [
+        "ACIDE",
+        "ACETYLSALICYLIQUE",
+        "CARBAMAZEPINE",
+        "LITHIUM",
+        "VALPRO\u00cfQUE",
+        "EXTRAPOLATION",
+        "VALPROMIDE"
+    ],
+    "ACIDE ACETOHYDROXAMIQUE": [
+        "FER"
+    ],
+    "ACIDE ACETYLSALICYLIQUE": [
+        "ACETAZOLAMIDE",
+        "ANTAGONISTES",
+        "R\u00c9CEPTEURS",
+        "ANGIOTENSINE",
+        "ANTICOAGULANTS",
+        "ANTI-INFLAMMATOIRES",
+        "ST\u00c9RO\u00cfDIENS",
+        "CLOPIDOGREL",
+        "DEFERASIROX",
+        "DIUR\u00c9TIQUES",
+        "GLUCOCORTICO\u00cfDES",
+        "HYDROCORTISONE",
+        "H\u00c9PARINES",
+        "CURATIVES",
+        "SUJET",
+        "\u00c2G\u00c9",
+        "PR\u00c9VENTIVES",
+        "INHIBITEURS",
+        "ENZYME",
+        "CONVERSION",
+        "METHOTREXATE",
+        "NICORANDIL",
+        "PEMETREXED",
+        "PROBENECIDE",
+        "TICAGRELOR",
+        "TICLOPIDINE"
+    ],
+    "ACIDE ASCORBIQUE": [
+        "CICLOSPORINE",
+        "D\u00c9F\u00c9RIPRONE",
+        "D\u00c9F\u00c9ROXAMINE"
+    ],
+    "ACIDE CHOLIQUE": [
+        "PH\u00c9NOBARBITAL",
+        "EXTRAPOLATION",
+        "PRIMIDONE"
+    ],
+    "ACIDE CLODRONIQUE": [
+        "ESTRAMUSTINE"
+    ],
+    "ACIDE FOLINIQUE": [
+        "FLUOROURACILE",
+        "EXTRAPOLATION",
+        "AUTRES",
+        "FLUOROPYRIMIDINES"
+    ],
+    "ACIDE FUSIDIQUE": [
+        "INHIBITEURS",
+        "HMG-COA",
+        "R\u00c9DUCTASE",
+        "STATINES",
+        "OMBITASVIR",
+        "PARITAPR\u00c9VIR"
+    ],
+    "ACIDE NICOTINIQUE": [
+        "ALCOOL",
+        "BOISSON",
+        "EXCIPIENT"
+    ],
+    "ACIDE URSODESOXYCHOLIQUE": [
+        "CICLOSPORINE"
+    ],
+    "ACITRETINE": [
+        "ALCOOL",
+        "BOISSON",
+        "EXCIPIENT",
+        "METHOTREXATE"
+    ],
+    "ADR\u00c9NALINE (VOIE BUCCO-DENTAIRE OU SOUS-CUTAN\u00c9E)": [
+        "ANESTH\u00c9SIQUES",
+        "VOLATILS",
+        "HALOG\u00c9N\u00c9S",
+        "ANTID\u00c9PRESSEURS",
+        "IMIPRAMINIQUES",
+        "IMAO",
+        "IRR\u00c9VERSIBLES",
+        "M\u00c9DICAMENTS",
+        "MIXTES",
+        "ADR\u00c9NERGIQUES-S\u00c9ROTONINERGIQUES"
+    ],
+    "AFATINIB": [
+        "AMIODARONE",
+        "CICLOSPORINE",
+        "ERYTHROMYCINE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "ITRACONAZOLE",
+        "KETOCONAZOLE",
+        "PRIMIDONE",
+        "RIFAMPICINE",
+        "VERAPAMIL"
+    ],
+    "AGOMELATINE": [
+        "CIPROFLOXACINE",
+        "FLUVOXAMINE"
+    ],
+    "ALBENDAZOLE": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "RIFAMPICINE"
+    ],
+    "ALCALINISANTS URINAIRES": [
+        "HYDROQUINIDINE",
+        "QUINIDINE"
+    ],
+    "ALCALO\u00cfDES DE L'ERGOT DE SEIGLE DOPAMINERGIQUES": [
+        "ALCALO\u00cfDES",
+        "ERGOT",
+        "SEIGLE",
+        "VASOCONSTRICTEURS",
+        "ANTIPARKINSONIENS",
+        "ANTICHOLINERGIQUES",
+        "MACROLIDES",
+        "SPIRAMYCINE",
+        "SYMPATHOMIM\u00c9TIQUES",
+        "ALPHA",
+        "VOIES",
+        "ORALE",
+        "NASALE",
+        "INDIRECTS"
+    ],
+    "ALCALO\u00cfDES DE L'ERGOT DE SEIGLE VASOCONSTRICTEURS": [
+        "ALCALO\u00cfDES",
+        "ERGOT",
+        "SEIGLE",
+        "DOPAMINERGIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "L\u00c9TERMOVIR",
+        "OMBITASVIR",
+        "PARITAPR\u00c9VIR",
+        "SYMPATHOMIM\u00c9TIQUES",
+        "ALPHA",
+        "VOIES",
+        "ORALE",
+        "NASALE",
+        "INDIRECTS",
+        "TRIPTANS"
+    ],
+    "ALCOOL (BOISSON OU EXCIPIENT)": [
+        "ACIDE",
+        "NICOTINIQUE",
+        "ACITRETINE",
+        "ANTABUSE",
+        "R\u00c9ACTION",
+        "IMAO",
+        "IRR\u00c9VERSIBLES",
+        "INSULINE",
+        "M\u00c9DICAMENTS",
+        "S\u00c9DATIFS",
+        "METFORMINE",
+        "SULFAMIDES",
+        "HYPOGLYC\u00c9MIANTS"
+    ],
+    "ALDESLEUKINE": [
+        "PRODUITS",
+        "CONTRASTE",
+        "IOD\u00c9S"
+    ],
+    "ALFENTANIL": [
+        "CIMETIDINE",
+        "DILTIAZEM",
+        "ERYTHROMYCINE",
+        "FLUCONAZOLE",
+        "INHIBITEURS",
+        "CYP3A4"
+    ],
+    "ALFUZOSINE": [
+        "INHIBITEURS",
+        "CYP3A4",
+        "OMBITASVIR",
+        "PARITAPR\u00c9VIR"
+    ],
+    "ALLOPURINOL": [
+        "ANTIVITAMINES",
+        "K",
+        "DIDANOSINE",
+        "P\u00c9NICILLINES",
+        "A",
+        "VIDARABINE"
+    ],
+    "ALPHABLOQUANTS \u00c0 VIS\u00c9E UROLOGIQUE": [
+        "ANTIHYPERTENSEURS",
+        "ALPHA-BLOQUANTS",
+        "INHIBITEURS",
+        "PHOSPHODIESTERASE",
+        "TYPE",
+        "5"
+    ],
+    "ALPRAZOLAM": [
+        "INHIBITEURS",
+        "CYP3A4"
+    ],
+    "ALUMINIUM (SELS)": [
+        "CITRATES"
+    ],
+    "AMBRISENTAN": [
+        "CICLOSPORINE"
+    ],
+    "AMINOSIDES": [
+        "AUTRES",
+        "AMINOSIDES",
+        "AMPHOTERICINE",
+        "B",
+        "ATALUREN",
+        "BOTULIQUE",
+        "TOXINE",
+        "CEFALOTINE",
+        "CICLOSPORINE",
+        "CURARES",
+        "DIUR\u00c9TIQUES",
+        "ANSE",
+        "ORGANOPLATINES",
+        "POLYMYXINE",
+        "TACROLIMUS"
+    ],
+    "AMIODARONE": [
+        "AFATINIB",
+        "ANTIVITAMINES",
+        "K",
+        "B\u00caTA-BLOQUANTS",
+        "ESMOLOL",
+        "SOTALOL",
+        "Y",
+        "COMPRIS",
+        "COLLYRES",
+        "INSUFFISANCE",
+        "CARDIAQUE",
+        "CICLOSPORINE",
+        "COBICISTAT",
+        "DABIGATRAN",
+        "DIGOXINE",
+        "DILTIAZEM",
+        "DOCETAXEL",
+        "FIDAXOMICINE",
+        "FLUCONAZOLE",
+        "IBRUTINIB",
+        "LIDOCAINE",
+        "NINT\u00c9DANIB",
+        "OLAPARIB",
+        "OMBITASVIR",
+        "PARITAPR\u00c9VIR",
+        "ORLISTAT",
+        "PACLITAXEL",
+        "PH\u00c9NYTO\u00cfNE",
+        "EXTRAPOLATION",
+        "FOSPH\u00c9NYTO\u00cfNE",
+        "SIMVASTATINE",
+        "SOFOSBUVIR",
+        "TACROLIMUS",
+        "TALAZOPARIB",
+        "TAMSULOSINE",
+        "TOLVAPTAN",
+        "V\u00c9N\u00c9TOCLAX",
+        "VERAPAMIL",
+        "VORICONAZOLE"
+    ],
+    "AMLODIPINE": [
+        "SIMVASTATINE"
+    ],
+    "AMPHOTERICINE B": [
+        "AMINOSIDES",
+        "CICLOSPORINE",
+        "TACROLIMUS",
+        "ZIDOVUDINE"
+    ],
+    "ANAGRELIDE": [
+        "ANTIAGR\u00c9GANTS",
+        "PLAQUETTAIRES",
+        "OMEPRAZOLE",
+        "SUBSTANCES",
+        "SUSCEPTIBLES",
+        "DONNER",
+        "TORSADES",
+        "POINTES"
+    ],
+    "ANAKINRA": [
+        "ANTI-TNF",
+        "ALPHA",
+        "ETANERCEPT"
+    ],
+    "ANALG\u00c9SIQUES MORPHINIQUES AGONISTES": [
+        "AUTRES",
+        "ANALG\u00c9SIQUES",
+        "MORPHINIQUES",
+        "AGONISTES",
+        "ANTITUSSIFS",
+        "MORPHINE-LIKE",
+        "VRAIS"
+    ],
+    "ANALG\u00c9SIQUES MORPHINIQUES DE PALIER II": [
+        "MORPHINIQUES",
+        "AGONISTES-ANTAGONISTES",
+        "ANTAGONISTES",
+        "PARTIELS"
+    ],
+    "ANALG\u00c9SIQUES MORPHINIQUES DE PALIER III": [
+        "MORPHINIQUES",
+        "AGONISTES-ANTAGONISTES",
+        "ANTAGONISTES",
+        "PARTIELS"
+    ],
+    "ANALOGUES DE LA SOMATOSTATINE": [
+        "CICLOSPORINE",
+        "INSULINE",
+        "REPAGLINIDE",
+        "SULFAMIDES",
+        "HYPOGLYC\u00c9MIANTS"
+    ],
+    "ANDROG\u00c8NES": [
+        "ANTIVITAMINES",
+        "K",
+        "INDUCTEURS",
+        "ENZYMATIQUES"
+    ],
+    "ANESTH\u00c9SIQUES VOLATILS HALOG\u00c9N\u00c9S": [
+        "ADR\u00c9NALINE",
+        "BUCCO-DENTAIRE",
+        "SOUS-CUTAN\u00c9E",
+        "B\u00caTA-BLOQUANTS",
+        "ESMOLOL",
+        "Y",
+        "COMPRIS",
+        "COLLYRES",
+        "INSUFFISANCE",
+        "CARDIAQUE",
+        "ISONIAZIDE",
+        "ISOPRENALINE",
+        "SYMPATHOMIM\u00c9TIQUES",
+        "ALPHA",
+        "B\u00caTA",
+        "IM",
+        "IV",
+        "INDIRECTS"
+    ],
+    "ANTABUSE (R\u00c9ACTION)": [
+        "ALCOOL",
+        "BOISSON",
+        "EXCIPIENT"
+    ],
+    "ANTAGONISTES DES CANAUX CALCIQUES": [
+        "ID\u00c9LALISIB",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "RIFAMPICINE"
+    ],
+    "ANTAGONISTES DES R\u00c9CEPTEURS DE L'ANGIOTENSINE II": [
+        "ACIDE",
+        "ACETYLSALICYLIQUE",
+        "ANTI-INFLAMMATOIRES",
+        "ST\u00c9RO\u00cfDIENS",
+        "DIUR\u00c9TIQUES",
+        "\u00c9PARGNEURS",
+        "POTASSIUM",
+        "SEULS",
+        "ASSOCI\u00c9S",
+        "HYPOKALI\u00c9MIANTS",
+        "EPLERENONE",
+        "INHIBITEURS",
+        "ENZYME",
+        "CONVERSION",
+        "LITHIUM"
+    ],
+    "ANTIAGR\u00c9GANTS PLAQUETTAIRES": [
+        "ANAGRELIDE",
+        "ANTICOAGULANTS",
+        "ANTI-INFLAMMATOIRES",
+        "ST\u00c9RO\u00cfDIENS",
+        "COBIM\u00c9TINIB",
+        "D\u00c9FIBROTIDE",
+        "H\u00c9PARINES",
+        "IBRUTINIB",
+        "INHIBITEURS",
+        "S\u00c9LECTIFS",
+        "RECAPTURE",
+        "S\u00c9ROTONINE",
+        "M\u00c9DICAMENTS",
+        "MIXTES",
+        "ADR\u00c9NERGIQUES-S\u00c9ROTONINERGIQUES",
+        "THROMBOLYTIQUES"
+    ],
+    "ANTIARYTHMIQUES": [
+        "AUTRES",
+        "ANTIARYTHMIQUES"
+    ],
+    "ANTIARYTHMIQUES CLASSE IA": [
+        "ESMOLOL",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "RIFAMPICINE"
+    ],
+    "ANTICHOLINEST\u00c9RASIQUES": [
+        "B\u00caTA-BLOQUANTS",
+        "INSUFFISANCE",
+        "CARDIAQUE",
+        "M\u00c9DICAMENTS",
+        "ATROPINIQUES",
+        "PILOCARPINE",
+        "SUXAMETHONIUM"
+    ],
+    "ANTICOAGULANTS ORAUX": [
+        "AUTRES",
+        "ANTICOAGULANTS",
+        "ACIDE",
+        "ACETYLSALICYLIQUE",
+        "ANTIAGR\u00c9GANTS",
+        "PLAQUETTAIRES",
+        "ANTI-INFLAMMATOIRES",
+        "ST\u00c9RO\u00cfDIENS",
+        "COBIM\u00c9TINIB",
+        "D\u00c9FIBROTIDE",
+        "GLUCOCORTICO\u00cfDES",
+        "HYDROCORTISONE",
+        "H\u00c9PARINES",
+        "IBRUTINIB",
+        "IMATINIB",
+        "INHIBITEURS",
+        "S\u00c9LECTIFS",
+        "RECAPTURE",
+        "S\u00c9ROTONINE",
+        "IPILIMUMAB",
+        "M\u00c9DICAMENTS",
+        "MIXTES",
+        "ADR\u00c9NERGIQUES-S\u00c9ROTONINERGIQUES",
+        "THROMBOLYTIQUES",
+        "TRAMADOL"
+    ],
+    "ANTICONVULSIVANTS M\u00c9TABOLIS\u00c9S": [
+        "MILLEPERTUIS"
+    ],
+    "ANTICORPS MONOCLONAUX (HORS ANTI-TNF ALPHA)": [
+        "VACCINS",
+        "VIVANTS",
+        "ATT\u00c9NU\u00c9S"
+    ],
+    "ANTID\u00c9PRESSEURS IMIPRAMINIQUES": [
+        "ADR\u00c9NALINE",
+        "BUCCO-DENTAIRE",
+        "SOUS-CUTAN\u00c9E",
+        "ANTIHYPERTENSEURS",
+        "CENTRAUX",
+        "B\u00caTA-BLOQUANTS",
+        "INSUFFISANCE",
+        "CARDIAQUE",
+        "INHIBITEURS",
+        "S\u00c9LECTIFS",
+        "RECAPTURE",
+        "S\u00c9ROTONINE",
+        "ORLISTAT",
+        "SYMPATHOMIM\u00c9TIQUES",
+        "ALPHA",
+        "B\u00caTA",
+        "IM",
+        "IV"
+    ],
+    "ANTIHYPERTENSEURS ALPHA-BLOQUANTS": [
+        "ALPHABLOQUANTS",
+        "VIS\u00c9E",
+        "UROLOGIQUE",
+        "ANTIHYPERTENSEURS",
+        "ALPHA-BLOQUANTS",
+        "INHIBITEURS",
+        "PHOSPHODIESTERASE",
+        "TYPE",
+        "5"
+    ],
+    "ANTIHYPERTENSEURS CENTRAUX": [
+        "ANTID\u00c9PRESSEURS",
+        "IMIPRAMINIQUES",
+        "B\u00caTA-BLOQUANTS",
+        "ESMOLOL",
+        "Y",
+        "COMPRIS",
+        "COLLYRES",
+        "INSUFFISANCE",
+        "CARDIAQUE",
+        "DILTIAZEM",
+        "VERAPAMIL",
+        "YOHIMBINE"
+    ],
+    "ANTIHYPERTENSEURS SAUF ALPHA-BLOQUANTS": [
+        "ALPHABLOQUANTS",
+        "VIS\u00c9E",
+        "UROLOGIQUE",
+        "ANTIHYPERTENSEURS",
+        "ALPHA-BLOQUANTS"
+    ],
+    "ANTI-INFLAMMATOIRES NON ST\u00c9RO\u00cfDIENS": [
+        "AUTRES",
+        "ANTI-INFLAMMATOIRES",
+        "ST\u00c9RO\u00cfDIENS",
+        "ACIDE",
+        "ACETYLSALICYLIQUE",
+        "ANTAGONISTES",
+        "R\u00c9CEPTEURS",
+        "ANGIOTENSINE",
+        "ANTIAGR\u00c9GANTS",
+        "PLAQUETTAIRES",
+        "ANTICOAGULANTS",
+        "B\u00caTA-BLOQUANTS",
+        "ESMOLOL",
+        "Y",
+        "COMPRIS",
+        "COLLYRES",
+        "CICLOSPORINE",
+        "COBIM\u00c9TINIB",
+        "DEFERASIROX",
+        "DIUR\u00c9TIQUES",
+        "GLUCOCORTICO\u00cfDES",
+        "HYDROCORTISONE",
+        "H\u00c9PARINES",
+        "CURATIVES",
+        "SUJET",
+        "\u00c2G\u00c9",
+        "PR\u00c9VENTIVES",
+        "INHIBITEURS",
+        "ENZYME",
+        "CONVERSION",
+        "S\u00c9LECTIFS",
+        "RECAPTURE",
+        "S\u00c9ROTONINE",
+        "LITHIUM",
+        "M\u00c9DICAMENTS",
+        "MIXTES",
+        "ADR\u00c9NERGIQUES-S\u00c9ROTONINERGIQUES",
+        "METHOTREXATE",
+        "MIFAMURTIDE",
+        "NICORANDIL",
+        "PEMETREXED",
+        "TACROLIMUS",
+        "TENOFOVIR",
+        "DISOPROXIL"
+    ],
+    "ANTIPARASITAIRES SUSCEPTIBLES DE DONNER DES TORSADES DE POINTES": [
+        "SUBSTANCES",
+        "SUSCEPTIBLES",
+        "DONNER",
+        "TORSADES",
+        "POINTES"
+    ],
+    "ANTIPARKINSONIENS ANTICHOLINERGIQUES": [
+        "ALCALO\u00cfDES",
+        "ERGOT",
+        "SEIGLE",
+        "DOPAMINERGIQUES"
+    ],
+    "ANTIPARKINSONIENS DOPAMINERGIQUES": [
+        "NEUROLEPTIQUES",
+        "ANTIPSYCHOTIQUES",
+        "CLOZAPINE"
+    ],
+    "ANTIPURINES": [
+        "ANTIVITAMINES",
+        "K",
+        "D\u00c9RIV\u00c9S",
+        "ACIDE",
+        "AMINOSALICYLIQUE",
+        "ASA",
+        "INHIBITEURS",
+        "XANTHINE",
+        "OXYDASE",
+        "RIBAVIRINE"
+    ],
+    "ANTIS\u00c9CR\u00c9TOIRES ANTIHISTAMINIQUES H2": [
+        "ATAZANAVIR",
+        "CYANOCOBALAMINE",
+        "INHIBITEURS",
+        "TYROSINE",
+        "KINASES",
+        "M\u00c9TABOLIS\u00c9S",
+        "ITRACONAZOLE",
+        "KETOCONAZOLE",
+        "POSACONAZOLE",
+        "RILPIVIRINE",
+        "SOTORASIB",
+        "ULIPRISTAL"
+    ],
+    "ANTIS\u00c9CR\u00c9TOIRES INHIBITEURS DE LA POMPE \u00c0 PROTONS": [
+        "ATAZANAVIR",
+        "CYANOCOBALAMINE",
+        "HORMONES",
+        "THYRO\u00cfDIENNES",
+        "INHIBITEURS",
+        "TYROSINE",
+        "KINASES",
+        "M\u00c9TABOLIS\u00c9S",
+        "ITRACONAZOLE",
+        "KETOCONAZOLE",
+        "L\u00c9DIPASVIR",
+        "METHOTREXATE",
+        "MILLEPERTUIS",
+        "MYCOPHENOLATE",
+        "MOFETIL",
+        "POSACONAZOLE",
+        "RILPIVIRINE",
+        "SOTORASIB",
+        "ULIPRISTAL",
+        "VELPATASVIR"
+    ],
+    "ANTISEPTIQUES MERCURIELS": [
+        "POVIDONE",
+        "IOD\u00c9E"
+    ],
+    "ANTISPASMODIQUES URINAIRES": [
+        "INHIBITEURS",
+        "CYP3A4"
+    ],
+    "ANTI-TNF ALPHA": [
+        "ABATACEPT",
+        "ANAKINRA",
+        "CANAKINUMAB",
+        "VACCINS",
+        "VIVANTS",
+        "ATT\u00c9NU\u00c9S"
+    ],
+    "ANTITUSSIFS MORPHINE-LIKE": [
+        "ANALG\u00c9SIQUES",
+        "MORPHINIQUES",
+        "AGONISTES",
+        "METHADONE"
+    ],
+    "ANTITUSSIFS MORPHINIQUES VRAIS": [
+        "ANALG\u00c9SIQUES",
+        "MORPHINIQUES",
+        "AGONISTES",
+        "METHADONE",
+        "AGONISTES-ANTAGONISTES"
+    ],
+    "ANTIVITAMINES K": [
+        "ALLOPURINOL",
+        "AMIODARONE",
+        "ANDROG\u00c8NES",
+        "ANTIPURINES",
+        "APREPITANT",
+        "BOSENTAN",
+        "CEFAMANDOLE",
+        "CEFAZOLINE",
+        "CEFTRIAXONE",
+        "CIMETIDINE",
+        "CLINDAMYCINE",
+        "COLCHICINE",
+        "CYCLINES",
+        "CYTOTOXIQUES",
+        "DANAZOL",
+        "DEFERASIROX",
+        "DISULFIRAME",
+        "ECONAZOLE",
+        "EFAVIRENZ",
+        "FIBRATES",
+        "FLUCONAZOLE",
+        "FLUOROQUINOLONES",
+        "FLUOROURACILE",
+        "EXTRAPOLATION",
+        "AUTRES",
+        "FLUOROPYRIMIDINES",
+        "GLUCOSAMINE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "HMG-COA",
+        "R\u00c9DUCTASE",
+        "STATINES",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "LEVOCARNITINE",
+        "MACROLIDES",
+        "SPIRAMYCINE",
+        "METHYLPREDNISOLONE",
+        "MICONAZOLE",
+        "MILLEPERTUIS",
+        "NEVIRAPINE",
+        "NOSCAPINE",
+        "ORLISTAT",
+        "PARACETAMOL",
+        "PENTOXIFYLLINE",
+        "PRISTINAMYCINE",
+        "PROGUANIL",
+        "RIFAMPICINE",
+        "ROPINIROLE",
+        "SULFAMETHOXAZOLE",
+        "TAMOXIFENE",
+        "TIBOLONE",
+        "VORICONAZOLE"
+    ],
+    "APALUTAMIDE": [
+        "ATORVASTATINE",
+        "CABAZITAXEL",
+        "DOCETAXEL",
+        "IMMUNOSUPPRESSEURS",
+        "METHADONE",
+        "OLAPARIB",
+        "OMEPRAZOLE",
+        "PIMOZIDE",
+        "SIMVASTATINE"
+    ],
+    "APIXABAN": [
+        "FLUCONAZOLE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "RIFAMPICINE"
+    ],
+    "APOMORPHINE": [
+        "S\u00c9TRONS"
+    ],
+    "APR\u00c9MILAST": [
+        "INDUCTEURS",
+        "ENZYMATIQUES"
+    ],
+    "APREPITANT": [
+        "ANTIVITAMINES",
+        "K",
+        "CYPROTERONE",
+        "ESTROPROGESTATIFS",
+        "CONTRACEPTIFS",
+        "IFOSFAMIDE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "ITRACONAZOLE",
+        "PIMOZIDE",
+        "PROGESTATIFS",
+        "RIFAMPICINE"
+    ],
+    "ARIPIPRAZOLE": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "NEUROLEPTIQUES",
+        "ANTIPSYCHOTIQUES",
+        "CLOZAPINE"
+    ],
+    "ARSENIEUX": [
+        "SUBSTANCES",
+        "SUSCEPTIBLES",
+        "DONNER",
+        "TORSADES",
+        "POINTES"
+    ],
+    "ATALUREN": [
+        "AMINOSIDES"
+    ],
+    "ATAZANAVIR": [
+        "ANTIS\u00c9CR\u00c9TOIRES",
+        "ANTIHISTAMINIQUES",
+        "H2",
+        "INHIBITEURS",
+        "POMPE",
+        "PROTONS",
+        "BICT\u00c9GRAVIR",
+        "BUPRENORPHINE",
+        "CLARITHROMYCINE",
+        "EFAVIRENZ",
+        "ETRAVIRINE",
+        "GL\u00c9CAPR\u00c9VIR",
+        "PIBRENTASVIR",
+        "L\u00c9NACAPAVIR",
+        "NEVIRAPINE",
+        "POSACONAZOLE",
+        "TENOFOVIR",
+        "DISOPROXIL"
+    ],
+    "ATORVASTATINE": [
+        "APALUTAMIDE",
+        "AZITHROMYCINE",
+        "CICLOSPORINE",
+        "CLARITHROMYCINE",
+        "DILTIAZEM",
+        "ERYTHROMYCINE",
+        "FLUCONAZOLE",
+        "GL\u00c9CAPR\u00c9VIR",
+        "PIBRENTASVIR",
+        "INHIBITEURS",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "ITRACONAZOLE",
+        "KETOCONAZOLE",
+        "OMBITASVIR",
+        "PARITAPR\u00c9VIR",
+        "PAMPLEMOUSSE",
+        "JUS",
+        "FRUIT",
+        "PONATINIB",
+        "POSACONAZOLE",
+        "RANOLAZINE",
+        "RIFAMPICINE",
+        "ROXITHROMYCINE",
+        "STIRIPENTOL",
+        "TELITHROMYCINE",
+        "VERAPAMIL"
+    ],
+    "ATOVAQUONE": [
+        "EFAVIRENZ",
+        "INHIBITEURS",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "RIFABUTINE",
+        "RIFAMPICINE"
+    ],
+    "AVANAFIL": [
+        "PAMPLEMOUSSE",
+        "JUS",
+        "FRUIT"
+    ],
+    "AZITHROMYCINE": [
+        "ATORVASTATINE",
+        "CICLOSPORINE",
+        "IVABRADINE",
+        "SIMVASTATINE",
+        "SUBSTANCES",
+        "SUSCEPTIBLES",
+        "DONNER",
+        "TORSADES",
+        "POINTES"
+    ],
+    "AZTREONAM": [
+        "VALPRO\u00cfQUE",
+        "ACIDE",
+        "EXTRAPOLATION",
+        "VALPROMIDE"
+    ],
+    "BACLOFENE": [
+        "LEVODOPA"
+    ],
+    "BARBITURIQUES": [
+        "BENZODIAZ\u00c9PINES",
+        "APPARENT\u00c9S",
+        "MORPHINIQUES",
+        "OXYBATE",
+        "SODIUM"
+    ],
+    "BAZ\u00c9DOXIF\u00c8NE": [
+        "INDUCTEURS",
+        "ENZYMATIQUES"
+    ],
+    "B\u00c9DAQUILINE": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "MILLEPERTUIS"
+    ],
+    "B\u00c9LATACEPT": [
+        "VACCINS",
+        "VIVANTS",
+        "ATT\u00c9NU\u00c9S"
+    ],
+    "BENZODIAZ\u00c9PINES ET APPARENT\u00c9S": [
+        "BARBITURIQUES",
+        "BUPRENORPHINE",
+        "CLOZAPINE",
+        "MORPHINIQUES"
+    ],
+    "B\u00caTA-2 MIM\u00c9TIQUES": [
+        "B\u00caTA-BLOQUANTS",
+        "CARDIO-S\u00c9LECTIFS",
+        "Y",
+        "COMPRIS",
+        "COLLYRES",
+        "HALOTHANE",
+        "INSULINE",
+        "SULFAMIDES",
+        "HYPOGLYC\u00c9MIANTS"
+    ],
+    "B\u00caTA-BLOQUANTS (SAUF ESMOLOL ET SOTALOL) (Y COMPRIS COLLYRES)": [
+        "AMIODARONE"
+    ],
+    "B\u00caTA-BLOQUANTS (SAUF ESMOLOL) (Y COMPRIS COLLYRES)": [
+        "ANESTH\u00c9SIQUES",
+        "VOLATILS",
+        "HALOG\u00c9N\u00c9S",
+        "ANTIHYPERTENSEURS",
+        "CENTRAUX",
+        "ANTI-INFLAMMATOIRES",
+        "ST\u00c9RO\u00cfDIENS",
+        "DIHYDROPYRIDINES",
+        "DILTIAZEM",
+        "DIPYRIDAMOLE",
+        "GLINIDES",
+        "GLIPTINES",
+        "INSULINE",
+        "LIDOCAINE",
+        "PROPAFENONE",
+        "SULFAMIDES",
+        "HYPOGLYC\u00c9MIANTS",
+        "VERAPAMIL"
+    ],
+    "B\u00caTA-BLOQUANTS DANS L'INSUFFISANCE CARDIAQUE": [
+        "AMIODARONE",
+        "ANESTH\u00c9SIQUES",
+        "VOLATILS",
+        "HALOG\u00c9N\u00c9S",
+        "ANTICHOLINEST\u00c9RASIQUES",
+        "ANTID\u00c9PRESSEURS",
+        "IMIPRAMINIQUES",
+        "ANTIHYPERTENSEURS",
+        "CENTRAUX",
+        "DIGOXINE",
+        "DIHYDROPYRIDINES",
+        "DILTIAZEM",
+        "GLINIDES",
+        "INSULINE",
+        "LIDOCAINE",
+        "MEXILETINE",
+        "NEUROLEPTIQUES",
+        "SUBSTANCES",
+        "SUSCEPTIBLES",
+        "DONNER",
+        "TORSADES",
+        "POINTES",
+        "SULFAMIDES",
+        "HYPOGLYC\u00c9MIANTS",
+        "VERAPAMIL"
+    ],
+    "B\u00caTA-BLOQUANTS NON CARDIO-S\u00c9LECTIFS (Y COMPRIS COLLYRES)": [
+        "B\u00caTA-2",
+        "MIM\u00c9TIQUES"
+    ],
+    "BICT\u00c9GRAVIR": [
+        "ATAZANAVIR",
+        "FER",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "MILLEPERTUIS",
+        "RIFAMPICINE"
+    ],
+    "BISPHOSPHONATES": [
+        "CALCIUM",
+        "FER"
+    ],
+    "BLEOMYCINE": [
+        "BRENTUXIMAB"
+    ],
+    "BORTEZOMIB": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4"
+    ],
+    "BOSENTAN": [
+        "ANTIVITAMINES",
+        "K",
+        "CICLOSPORINE",
+        "CYPROTERONE",
+        "ESTROPROGESTATIFS",
+        "CONTRACEPTIFS",
+        "GLIBENCLAMIDE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "PROGESTATIFS",
+        "ASSOCI\u00c9S",
+        "ESTROG\u00c8NE",
+        "RIFAMPICINE"
+    ],
+    "BOTULIQUE (TOXINE)": [
+        "AMINOSIDES"
+    ],
+    "BRADYCARDISANTS": [
+        "AUTRES",
+        "BRADYCARDISANTS",
+        "FINGOLIMOD",
+        "OZANIMOD",
+        "PON\u00c9SIMOD",
+        "SUBSTANCES",
+        "SUSCEPTIBLES",
+        "DONNER",
+        "TORSADES",
+        "POINTES"
+    ],
+    "BRENTUXIMAB": [
+        "BLEOMYCINE",
+        "INHIBITEURS",
+        "CYP3A4"
+    ],
+    "BUPRENORPHINE": [
+        "ATAZANAVIR",
+        "BENZODIAZ\u00c9PINES",
+        "APPARENT\u00c9S",
+        "INHIBITEURS",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "ITRACONAZOLE",
+        "KETOCONAZOLE"
+    ],
+    "BUPROPION": [
+        "CLOMIPRAMINE",
+        "CODEINE",
+        "DESIPRAMINE",
+        "IMAO-B",
+        "MEQUITAZINE",
+        "METOPROLOL",
+        "NORTRIPTYLINE",
+        "PROPAFENONE",
+        "TAMOXIFENE",
+        "TETRABENAZINE",
+        "TRAMADOL",
+        "V\u00c9MURAF\u00c9NIB"
+    ],
+    "BUSPIRONE": [
+        "DIAZEPAM",
+        "DILTIAZEM",
+        "ERYTHROMYCINE",
+        "ITRACONAZOLE",
+        "MILLEPERTUIS",
+        "PAMPLEMOUSSE",
+        "JUS",
+        "FRUIT",
+        "RIFAMPICINE",
+        "VERAPAMIL"
+    ],
+    "BUSULFAN": [
+        "DEFERASIROX",
+        "ITRACONAZOLE",
+        "METRONIDAZOLE"
+    ],
+    "CABAZITAXEL": [
+        "APALUTAMIDE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4"
+    ],
+    "CABOTEGRAVIR": [
+        "INDUCTEURS",
+        "ENZYMATIQUES"
+    ],
+    "CAFEINE": [
+        "CIPROFLOXACINE",
+        "DIPYRIDAMOLE",
+        "ENOXACINE",
+        "LITHIUM",
+        "MEXILETINE",
+        "NORFLOXACINE",
+        "STIRIPENTOL"
+    ],
+    "CALCITONINE": [
+        "LITHIUM"
+    ],
+    "CALCIUM": [
+        "BISPHOSPHONATES",
+        "CIPROFLOXACINE",
+        "CYCLINES",
+        "DIGOXINE",
+        "DIUR\u00c9TIQUES",
+        "THIAZIDIQUES",
+        "APPARENT\u00c9S",
+        "ESTRAMUSTINE",
+        "FER",
+        "HORMONES",
+        "THYRO\u00cfDIENNES",
+        "INHIBITEURS",
+        "D",
+        "INT\u00c9GRASE",
+        "NORFLOXACINE",
+        "ROXADUSTAT",
+        "STRONTIUM",
+        "ZINC"
+    ],
+    "CANAKINUMAB": [
+        "ANTI-TNF",
+        "ALPHA"
+    ],
+    "CANNABIDIOL": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "MILLEPERTUIS",
+        "RIFAMPICINE"
+    ],
+    "CARBAMAZEPINE": [
+        "ACETAZOLAMIDE",
+        "CIMETIDINE",
+        "CLARITHROMYCINE",
+        "CLONAZEPAM",
+        "DANAZOL",
+        "DIGOXINE",
+        "DIUR\u00c9TIQUES",
+        "HYPOKALI\u00c9MIANTS",
+        "ERYTHROMYCINE",
+        "ETHOSUXIMIDE",
+        "FELBAMATE",
+        "FLUCONAZOLE",
+        "FLUOXETINE",
+        "FLUVOXAMINE",
+        "ISONIAZIDE",
+        "JOSAMYCINE",
+        "LAMOTRIGINE",
+        "LITHIUM",
+        "MILLEPERTUIS",
+        "NINT\u00c9DANIB",
+        "OLANZAPINE",
+        "PAMPLEMOUSSE",
+        "JUS",
+        "FRUIT",
+        "PAROXETINE",
+        "PH\u00c9NOBARBITAL",
+        "EXTRAPOLATION",
+        "PRIMIDONE",
+        "PH\u00c9NYTO\u00cfNE",
+        "FOSPH\u00c9NYTO\u00cfNE",
+        "RIFAMPICINE",
+        "RISPERIDONE",
+        "SIMVASTATINE",
+        "TOPIRAMATE",
+        "VALPRO\u00cfQUE",
+        "ACIDE",
+        "VALPROMIDE",
+        "VERAPAMIL"
+    ],
+    "CARMUSTINE": [
+        "CIMETIDINE"
+    ],
+    "CARVEDILOL": [
+        "CIMETIDINE",
+        "RIFAMPICINE"
+    ],
+    "CASPOFUNGINE": [
+        "INDUCTEURS",
+        "ENZYMATIQUES"
+    ],
+    "CEFALOTINE": [
+        "AMINOSIDES"
+    ],
+    "CEFAMANDOLE": [
+        "ANTIVITAMINES",
+        "K"
+    ],
+    "CEFAZOLINE": [
+        "ANTIVITAMINES",
+        "K"
+    ],
+    "CEFTRIAXONE": [
+        "ANTIVITAMINES",
+        "K"
+    ],
+    "CHLORDIAZEPOXIDE": [
+        "CIMETIDINE"
+    ],
+    "CHLOROQUINE": [
+        "CICLOSPORINE",
+        "CIMETIDINE",
+        "HORMONES",
+        "THYRO\u00cfDIENNES"
+    ],
+    "CHLORPROMAZINE": [
+        "INSULINE",
+        "SULFAMIDES",
+        "HYPOGLYC\u00c9MIANTS"
+    ],
+    "CICLOSPORINE": [
+        "ACIDE",
+        "ASCORBIQUE",
+        "URSODESOXYCHOLIQUE",
+        "AFATINIB",
+        "AMBRISENTAN",
+        "AMINOSIDES",
+        "AMIODARONE",
+        "AMPHOTERICINE",
+        "B",
+        "ANALOGUES",
+        "SOMATOSTATINE",
+        "ANTI-INFLAMMATOIRES",
+        "ST\u00c9RO\u00cfDIENS",
+        "ATORVASTATINE",
+        "AZITHROMYCINE",
+        "BOSENTAN",
+        "CHLOROQUINE",
+        "CIMETIDINE",
+        "CLINDAMYCINE",
+        "COLCHICINE",
+        "DABIGATRAN",
+        "DANAZOL",
+        "DIUR\u00c9TIQUES",
+        "\u00c9PARGNEURS",
+        "POTASSIUM",
+        "SEULS",
+        "ASSOCI\u00c9S",
+        "HYPOKALI\u00c9MIANTS",
+        "\u00c9DOXABAN",
+        "EVEROLIMUS",
+        "EZETIMIBE",
+        "FENOFIBRATE",
+        "FIDAXOMICINE",
+        "FLUVASTATINE",
+        "GRAZOPREVIR",
+        "ELBASVIR",
+        "JOSAMYCINE",
+        "LERCANIDIPINE",
+        "METHOTREXATE",
+        "METHYLPREDNISOLONE",
+        "MIDECAMYCINE",
+        "MIFAMURTIDE",
+        "MODAFINIL",
+        "NIFEDIPINE",
+        "NINT\u00c9DANIB",
+        "ORLISTAT",
+        "OZANIMOD",
+        "PITAVASTATINE",
+        "PRAVASTATINE",
+        "PREDNISOLONE",
+        "REPAGLINIDE",
+        "ROSUVASTATINE",
+        "ROXITHROMYCINE",
+        "SIMVASTATINE",
+        "SIROLIMUS",
+        "SULFINPYRAZONE",
+        "TALAZOPARIB",
+        "T\u00c9NOFOVIR",
+        "ALAF\u00c9NAMIDE",
+        "TERBINAFINE",
+        "TICLOPIDINE",
+        "TIGECYCLINE",
+        "TRIMETHOPRIME",
+        "VERAPAMIL"
+    ],
+    "CIMETIDINE": [
+        "ALFENTANIL",
+        "ANTIVITAMINES",
+        "K",
+        "CARBAMAZEPINE",
+        "CARMUSTINE",
+        "CARVEDILOL",
+        "CHLORDIAZEPOXIDE",
+        "CHLOROQUINE",
+        "CICLOSPORINE",
+        "DIAZEPAM",
+        "LIDOCAINE",
+        "LOMUSTINE",
+        "METHADONE",
+        "METOPROLOL",
+        "MOCLOBEMIDE",
+        "NIFEDIPINE",
+        "PH\u00c9NYTO\u00cfNE",
+        "EXTRAPOLATION",
+        "FOSPH\u00c9NYTO\u00cfNE",
+        "TH\u00c9OPHYLLINE",
+        "AMINOPHYLLINE"
+    ],
+    "CINACALCET": [
+        "CODEINE",
+        "DEXTROMETHORPHANE",
+        "\u00c9TELCALC\u00c9TIDE",
+        "MEQUITAZINE",
+        "METOPROLOL",
+        "PROPAFENONE",
+        "TETRABENAZINE",
+        "TRAMADOL"
+    ],
+    "CIPROFLOXACINE": [
+        "AGOMELATINE",
+        "CAFEINE",
+        "CALCIUM",
+        "CLOZAPINE",
+        "METHOTREXATE",
+        "PH\u00c9NYTO\u00cfNE",
+        "EXTRAPOLATION",
+        "FOSPH\u00c9NYTO\u00cfNE",
+        "ROPINIROLE",
+        "SUBSTANCES",
+        "SUSCEPTIBLES",
+        "DONNER",
+        "TORSADES",
+        "POINTES",
+        "TH\u00c9OPHYLLINE",
+        "AMINOPHYLLINE"
+    ],
+    "CITRATES": [
+        "ALUMINIUM",
+        "SELS"
+    ],
+    "CLADRIBINE": [
+        "LAMIVUDINE"
+    ],
+    "CLARITHROMYCINE": [
+        "ATAZANAVIR",
+        "ATORVASTATINE",
+        "CARBAMAZEPINE",
+        "ETRAVIRINE",
+        "FIDAXOMICINE",
+        "IMMUNOSUPPRESSEURS",
+        "INHIBITEURS",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "LINEZOLIDE",
+        "PRAVASTATINE",
+        "REPAGLINIDE",
+        "RIFABUTINE",
+        "RIFAMPICINE",
+        "SUBSTANCES",
+        "SUSCEPTIBLES",
+        "DONNER",
+        "TORSADES",
+        "POINTES",
+        "SULFAMIDES",
+        "HYPOGLYC\u00c9MIANTS",
+        "TALAZOPARIB",
+        "TH\u00c9OPHYLLINE",
+        "EXTRAPOLATION",
+        "AMINOPHYLLINE",
+        "VENLAFAXINE"
+    ],
+    "CLINDAMYCINE": [
+        "ANTIVITAMINES",
+        "K",
+        "CICLOSPORINE",
+        "TACROLIMUS"
+    ],
+    "CLOBAZAM": [
+        "STIRIPENTOL"
+    ],
+    "CLOMIPRAMINE": [
+        "BUPROPION"
+    ],
+    "CLONAZEPAM": [
+        "CARBAMAZEPINE"
+    ],
+    "CLOPIDOGREL": [
+        "ACIDE",
+        "ACETYLSALICYLIQUE",
+        "OZANIMOD",
+        "PACLITAXEL",
+        "PH\u00c9NYTO\u00cfNE",
+        "EXTRAPOLATION",
+        "FOSPH\u00c9NYTO\u00cfNE",
+        "REPAGLINIDE",
+        "SELEXIPAG"
+    ],
+    "CLOZAPINE": [
+        "BENZODIAZ\u00c9PINES",
+        "APPARENT\u00c9S",
+        "CIPROFLOXACINE",
+        "FLUVOXAMINE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "MILLEPERTUIS",
+        "RIFAMPICINE"
+    ],
+    "COBICISTAT": [
+        "AMIODARONE",
+        "ETRAVIRINE",
+        "GLUCOCORTICO\u00cfDES",
+        "INTRA-ARTICULAIRE",
+        "M\u00c9TABOLIS\u00c9S",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "MILLEPERTUIS",
+        "QUINIDINE",
+        "RIFABUTINE",
+        "RIFAMPICINE",
+        "T\u00c9NOFOVIR",
+        "ALAF\u00c9NAMIDE"
+    ],
+    "COBIM\u00c9TINIB": [
+        "ANTIAGR\u00c9GANTS",
+        "PLAQUETTAIRES",
+        "ANTICOAGULANTS",
+        "ANTI-INFLAMMATOIRES",
+        "ST\u00c9RO\u00cfDIENS",
+        "D\u00c9FIBROTIDE",
+        "GLUCOCORTICO\u00cfDES",
+        "HYDROCORTISONE",
+        "H\u00c9PARINES",
+        "INHIBITEURS",
+        "HMG-COA",
+        "R\u00c9DUCTASE",
+        "STATINES",
+        "S\u00c9LECTIFS",
+        "RECAPTURE",
+        "S\u00c9ROTONINE",
+        "M\u00c9DICAMENTS",
+        "MIXTES",
+        "ADR\u00c9NERGIQUES-S\u00c9ROTONINERGIQUES",
+        "PENTOXIFYLLINE"
+    ],
+    "COCAINE": [
+        "DISULFIRAME"
+    ],
+    "CODEINE": [
+        "BUPROPION",
+        "CINACALCET",
+        "DULOXETINE",
+        "FLUOXETINE",
+        "PAROXETINE",
+        "QUINIDINE",
+        "TERBINAFINE"
+    ],
+    "COLCHICINE": [
+        "ANTIVITAMINES",
+        "K",
+        "CICLOSPORINE",
+        "FIBRATES",
+        "FLUCONAZOLE",
+        "INHIBITEURS",
+        "HMG-COA",
+        "R\u00c9DUCTASE",
+        "STATINES",
+        "CYP3A4",
+        "MACROLIDES",
+        "SPIRAMYCINE",
+        "OMBITASVIR",
+        "PARITAPR\u00c9VIR",
+        "PONATINIB",
+        "PRISTINAMYCINE",
+        "ROLAPITANT",
+        "VERAPAMIL"
+    ],
+    "COLISTINE": [
+        "CURARES"
+    ],
+    "CORTICO\u00cfDES": [
+        "MIFAMURTIDE"
+    ],
+    "CORTICO\u00cfDES (VOIE INTRA-ARTICULAIRE)": [
+        "RITONAVIR"
+    ],
+    "CORTICO\u00cfDES M\u00c9TABOLIS\u00c9S, NOTAMMENT INHAL\u00c9S": [
+        "INHIBITEURS",
+        "CYP3A4"
+    ],
+    "CRIZOTINIB": [
+        "IBRUTINIB",
+        "SUBSTANCES",
+        "SUSCEPTIBLES",
+        "DONNER",
+        "TORSADES",
+        "POINTES",
+        "SUBSTRATS",
+        "RISQUE",
+        "CYP3A4"
+    ],
+    "CURARES": [
+        "AMINOSIDES",
+        "COLISTINE",
+        "LINCOSANIDES",
+        "POLYMYXINE",
+        "B"
+    ],
+    "CURARES NON D\u00c9POLARISANTS": [
+        "GLUCOCORTICO\u00cfDES",
+        "HYDROCORTISONE"
+    ],
+    "CYANOCOBALAMINE": [
+        "ANTIS\u00c9CR\u00c9TOIRES",
+        "ANTIHISTAMINIQUES",
+        "H2",
+        "INHIBITEURS",
+        "POMPE",
+        "PROTONS"
+    ],
+    "CYCLINES": [
+        "ANTIVITAMINES",
+        "K",
+        "CALCIUM",
+        "FER",
+        "R\u00c9TINO\u00cfDES",
+        "STRONTIUM",
+        "VITAMINE",
+        "A",
+        "ZINC"
+    ],
+    "CYCLOPHOSPHAMIDE": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "MILLEPERTUIS",
+        "PENTOSTATINE"
+    ],
+    "CYPROHEPTADINE": [
+        "INHIBITEURS",
+        "S\u00c9LECTIFS",
+        "RECAPTURE",
+        "S\u00c9ROTONINE"
+    ],
+    "CYPROTERONE": [
+        "APREPITANT",
+        "BOSENTAN",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "MILLEPERTUIS",
+        "P\u00c9RAMPANEL",
+        "ULIPRISTAL"
+    ],
+    "CYTOTOXIQUES": [
+        "ANTIVITAMINES",
+        "K",
+        "FLUCYTOSINE",
+        "IMMUNOSUPPRESSEURS",
+        "OLAPARIB",
+        "PH\u00c9NYTO\u00cfNE",
+        "EXTRAPOLATION",
+        "FOSPH\u00c9NYTO\u00cfNE",
+        "VACCINS",
+        "VIVANTS",
+        "ATT\u00c9NU\u00c9S"
+    ],
+    "DABIGATRAN": [
+        "AMIODARONE",
+        "CICLOSPORINE",
+        "DRONEDARONE",
+        "GL\u00c9CAPR\u00c9VIR",
+        "PIBRENTASVIR",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "ITRACONAZOLE",
+        "KETOCONAZOLE",
+        "PONATINIB",
+        "QUINIDINE",
+        "RIFAMPICINE",
+        "ROLAPITANT",
+        "TACROLIMUS",
+        "TICAGRELOR",
+        "VERAPAMIL"
+    ],
+    "DACARBAZINE": [
+        "FOTEMUSTINE"
+    ],
+    "DALFOPRISTINE": [
+        "DIHYDROERGOTAMINE",
+        "ERGOTAMINE",
+        "IMMUNOSUPPRESSEURS",
+        "PIMOZIDE"
+    ],
+    "DANAZOL": [
+        "ANTIVITAMINES",
+        "K",
+        "CARBAMAZEPINE",
+        "CICLOSPORINE",
+        "INSULINE",
+        "SIMVASTATINE",
+        "SULFAMIDES",
+        "HYPOGLYC\u00c9MIANTS",
+        "TACROLIMUS"
+    ],
+    "DANTROLENE": [
+        "DIHYDROPYRIDINES",
+        "DILTIAZEM",
+        "VERAPAMIL"
+    ],
+    "DAPOX\u00c9TINE": [
+        "INHIBITEURS",
+        "CYP3A4",
+        "M\u00c9DICAMENTS",
+        "ORIGINE",
+        "D",
+        "HYPOTENSION",
+        "ORTHOSTATIQUE"
+    ],
+    "DAPSONE": [
+        "ZIDOVUDINE"
+    ],
+    "DAPTOMYCINE": [
+        "INHIBITEURS",
+        "HMG-COA",
+        "R\u00c9DUCTASE",
+        "STATINES"
+    ],
+    "DARIFENACINE": [
+        "METOPROLOL",
+        "PROPAFENONE"
+    ],
+    "DAROLUTAMIDE": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "RIFAMPICINE",
+        "ROSUVASTATINE"
+    ],
+    "DARUNAVIR": [
+        "ETRAVIRINE"
+    ],
+    "DASABUVIR": [
+        "ETHINYLESTRADIOL",
+        "GEMFIBROZIL",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "MILLEPERTUIS",
+        "MITOTANE"
+    ],
+    "DEFERASIROX": [
+        "ACIDE",
+        "ACETYLSALICYLIQUE",
+        "ANTI-INFLAMMATOIRES",
+        "ST\u00c9RO\u00cfDIENS",
+        "ANTIVITAMINES",
+        "K",
+        "BUSULFAN",
+        "D\u00c9F\u00c9RIPRONE",
+        "D\u00c9F\u00c9ROXAMINE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "PACLITAXEL",
+        "REPAGLINIDE",
+        "RIFAMPICINE",
+        "SELEXIPAG"
+    ],
+    "D\u00c9F\u00c9RIPRONE": [
+        "ACIDE",
+        "ASCORBIQUE",
+        "DEFERASIROX"
+    ],
+    "D\u00c9F\u00c9ROXAMINE": [
+        "ACIDE",
+        "ASCORBIQUE",
+        "DEFERASIROX"
+    ],
+    "D\u00c9FIBROTIDE": [
+        "ANTIAGR\u00c9GANTS",
+        "PLAQUETTAIRES",
+        "ANTICOAGULANTS",
+        "COBIM\u00c9TINIB",
+        "H\u00c9PARINES",
+        "THROMBOLYTIQUES"
+    ],
+    "D\u00c9LAMANID": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "RIFAMPICINE",
+        "SUBSTANCES",
+        "SUSCEPTIBLES",
+        "DONNER",
+        "TORSADES",
+        "POINTES"
+    ],
+    "D\u00c9RIV\u00c9S DE L'ACIDE AMINOSALICYLIQUE (ASA)": [
+        "ANTIPURINES"
+    ],
+    "D\u00c9RIV\u00c9S NITR\u00c9S ET APPARENT\u00c9S": [
+        "INHIBITEURS",
+        "PHOSPHODIESTERASE",
+        "TYPE",
+        "5",
+        "RIOCIGUAT"
+    ],
+    "DESIPRAMINE": [
+        "BUPROPION"
+    ],
+    "DEXAMETHASONE": [
+        "PRAZIQUANTEL",
+        "RILPIVIRINE"
+    ],
+    "DEXTRAN": [
+        "H\u00c9PARINES",
+        "CURATIVES",
+        "SUJET",
+        "\u00c2G\u00c9"
+    ],
+    "DEXTROMETHORPHANE": [
+        "CINACALCET",
+        "IMAO",
+        "IRR\u00c9VERSIBLES",
+        "IMAO-A",
+        "R\u00c9VERSIBLES",
+        "Y",
+        "COMPRIS",
+        "OXAZOLIDINONES",
+        "BLEU",
+        "M\u00c9THYL\u00c8NE"
+    ],
+    "DIAZEPAM": [
+        "BUSPIRONE",
+        "CIMETIDINE",
+        "PH\u00c9NYTO\u00cfNE",
+        "EXTRAPOLATION",
+        "FOSPH\u00c9NYTO\u00cfNE",
+        "STIRIPENTOL"
+    ],
+    "DIDANOSINE": [
+        "ALLOPURINOL",
+        "GANCICLOVIR",
+        "PENTAMIDINE",
+        "RIBAVIRINE",
+        "TENOFOVIR",
+        "DISOPROXIL",
+        "THALIDOMIDE"
+    ],
+    "DIGOXINE": [
+        "AMIODARONE",
+        "B\u00caTA-BLOQUANTS",
+        "INSUFFISANCE",
+        "CARDIAQUE",
+        "CALCIUM",
+        "CARBAMAZEPINE",
+        "DRONEDARONE",
+        "GL\u00c9CAPR\u00c9VIR",
+        "PIBRENTASVIR",
+        "HYDROQUINIDINE",
+        "HYPOKALI\u00c9MIANTS",
+        "INHIBITEURS",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "ITRACONAZOLE",
+        "MACROLIDES",
+        "SPIRAMYCINE",
+        "MIDODRINE",
+        "MILLEPERTUIS",
+        "OMEPRAZOLE",
+        "PONATINIB",
+        "POSACONAZOLE",
+        "PROPAFENONE",
+        "QUINIDINE",
+        "QUININE",
+        "RANOLAZINE",
+        "RIFAMPICINE",
+        "ROLAPITANT",
+        "SUCRALFATE",
+        "SULFASALAZINE",
+        "TELITHROMYCINE",
+        "VERAPAMIL"
+    ],
+    "DIHYDROERGOTAMINE": [
+        "DALFOPRISTINE",
+        "DILTIAZEM",
+        "EFAVIRENZ",
+        "MACROLIDES",
+        "SPIRAMYCINE",
+        "QUINUPRISTINE",
+        "STIRIPENTOL",
+        "TRICLABENDAZOLE"
+    ],
+    "DIHYDROPYRIDINES": [
+        "B\u00caTA-BLOQUANTS",
+        "ESMOLOL",
+        "Y",
+        "COMPRIS",
+        "COLLYRES",
+        "INSUFFISANCE",
+        "CARDIAQUE",
+        "DANTROLENE"
+    ],
+    "DILTIAZEM": [
+        "ALFENTANIL",
+        "AMIODARONE",
+        "ANTIHYPERTENSEURS",
+        "CENTRAUX",
+        "ATORVASTATINE",
+        "B\u00caTA-BLOQUANTS",
+        "ESMOLOL",
+        "Y",
+        "COMPRIS",
+        "COLLYRES",
+        "INSUFFISANCE",
+        "CARDIAQUE",
+        "BUSPIRONE",
+        "DANTROLENE",
+        "DIHYDROERGOTAMINE",
+        "DRONEDARONE",
+        "ERGOTAMINE",
+        "IBRUTINIB",
+        "IMMUNOSUPPRESSEURS",
+        "IVABRADINE",
+        "LOMITAPIDE",
+        "MIDAZOLAM",
+        "NALOXEGOL",
+        "NIFEDIPINE",
+        "OLAPARIB",
+        "PIMOZIDE",
+        "SIMVASTATINE",
+        "TAMSULOSINE",
+        "TICAGRELOR",
+        "TOLVAPTAN",
+        "V\u00c9N\u00c9TOCLAX"
+    ],
+    "DIM\u00c9THYLE ( FUMARATE DE)": [
+        "VACCINS",
+        "VIVANTS",
+        "ATT\u00c9NU\u00c9S"
+    ],
+    "DIPROPHYLLINE": [
+        "PROBENECIDE"
+    ],
+    "DIPYRIDAMOLE": [
+        "TH\u00c9INE",
+        "B\u00caTA-BLOQUANTS",
+        "ESMOLOL",
+        "Y",
+        "COMPRIS",
+        "COLLYRES",
+        "CAFEINE",
+        "TH\u00c9OPHYLLINE",
+        "EXTRAPOLATION",
+        "AMINOPHYLLINE"
+    ],
+    "DISOPYRAMIDE": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "JOSAMYCINE",
+        "OMBITASVIR",
+        "PARITAPR\u00c9VIR"
+    ],
+    "DISULFIRAME": [
+        "ANTIVITAMINES",
+        "K",
+        "COCAINE",
+        "ISONIAZIDE",
+        "METRONIDAZOLE",
+        "PH\u00c9NYTO\u00cfNE",
+        "EXTRAPOLATION",
+        "FOSPH\u00c9NYTO\u00cfNE"
+    ],
+    "DIUR\u00c9TIQUES": [
+        "ACIDE",
+        "ACETYLSALICYLIQUE",
+        "ANTI-INFLAMMATOIRES",
+        "ST\u00c9RO\u00cfDIENS",
+        "PRODUITS",
+        "CONTRASTE",
+        "IOD\u00c9S"
+    ],
+    "DIUR\u00c9TIQUES DE L'ANSE": [
+        "AMINOSIDES",
+        "LITHIUM",
+        "METFORMINE",
+        "ORGANOPLATINES"
+    ],
+    "DIUR\u00c9TIQUES \u00c9PARGNEURS DE POTASSIUM (SEULS OU ASSOCI\u00c9S)": [
+        "AUTRES",
+        "DIUR\u00c9TIQUES",
+        "\u00c9PARGNEURS",
+        "POTASSIUM",
+        "SEULS",
+        "ASSOCI\u00c9S",
+        "ANTAGONISTES",
+        "R\u00c9CEPTEURS",
+        "ANGIOTENSINE",
+        "CICLOSPORINE",
+        "HYPOKALI\u00c9MIANTS",
+        "INHIBITEURS",
+        "ENZYME",
+        "CONVERSION",
+        "LITHIUM",
+        "TACROLIMUS"
+    ],
+    "DIUR\u00c9TIQUES HYPOKALI\u00c9MIANTS": [
+        "ANTAGONISTES",
+        "R\u00c9CEPTEURS",
+        "ANGIOTENSINE",
+        "CARBAMAZEPINE",
+        "CICLOSPORINE",
+        "DIUR\u00c9TIQUES",
+        "\u00c9PARGNEURS",
+        "POTASSIUM",
+        "SEULS",
+        "ASSOCI\u00c9S",
+        "INHIBITEURS",
+        "ENZYME",
+        "CONVERSION"
+    ],
+    "DIUR\u00c9TIQUES THIAZIDIQUES ET APPARENT\u00c9S": [
+        "CALCIUM",
+        "LITHIUM"
+    ],
+    "DOCETAXEL": [
+        "AMIODARONE",
+        "APALUTAMIDE",
+        "DRONEDARONE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "MILLEPERTUIS"
+    ],
+    "DOLUT\u00c9GRAVIR": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "METFORMINE",
+        "MILLEPERTUIS"
+    ],
+    "DOMPERIDONE": [
+        "FLUCONAZOLE",
+        "INHIBITEURS",
+        "CYP3A4"
+    ],
+    "DOPAMINERGIQUES": [
+        "NEUROLEPTIQUES",
+        "ANTI\u00c9M\u00c9TIQUES",
+        "TETRABENAZINE"
+    ],
+    "DOPAMINERGIQUES, HORS PARKINSON": [
+        "NEUROLEPTIQUES",
+        "ANTIPSYCHOTIQUES",
+        "CLOZAPINE"
+    ],
+    "DOXORUBICINE": [
+        "VERAPAMIL"
+    ],
+    "DOXYCYCLINE": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "RIFAMPICINE"
+    ],
+    "DRONEDARONE": [
+        "DABIGATRAN",
+        "DIGOXINE",
+        "DILTIAZEM",
+        "DOCETAXEL",
+        "\u00c9DOXABAN",
+        "FIDAXOMICINE",
+        "IBRUTINIB",
+        "IMMUNOSUPPRESSEURS",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "MILLEPERTUIS",
+        "PAMPLEMOUSSE",
+        "JUS",
+        "FRUIT",
+        "QUINIDINE",
+        "RIFAMPICINE",
+        "SIMVASTATINE",
+        "TALAZOPARIB",
+        "VERAPAMIL"
+    ],
+    "DULOXETINE": [
+        "CODEINE",
+        "ENOXACINE",
+        "FLUVOXAMINE",
+        "MEQUITAZINE",
+        "METOPROLOL",
+        "PROPAFENONE",
+        "TAMOXIFENE",
+        "TETRABENAZINE",
+        "TRAMADOL"
+    ],
+    "ECONAZOLE": [
+        "ANTIVITAMINES",
+        "K"
+    ],
+    "\u00c9DOXABAN": [
+        "CICLOSPORINE",
+        "DRONEDARONE",
+        "ERYTHROMYCINE",
+        "ITRACONAZOLE"
+    ],
+    "EFAVIRENZ": [
+        "ANTIVITAMINES",
+        "K",
+        "ATAZANAVIR",
+        "ATOVAQUONE",
+        "DIHYDROERGOTAMINE",
+        "ERGOTAMINE",
+        "FOSAMPRENAVIR",
+        "GINKGO",
+        "HORMONES",
+        "THYRO\u00cfDIENNES",
+        "L\u00c9NACAPAVIR",
+        "MILLEPERTUIS",
+        "PIMOZIDE",
+        "RIFABUTINE",
+        "RIFAMPICINE",
+        "VELPATASVIR",
+        "VORICONAZOLE"
+    ],
+    "\u00c9LIGLUSTAT": [
+        "INHIBITEURS",
+        "CYP3A4"
+    ],
+    "ELTROMBOPAG": [
+        "INHIBITEURS",
+        "HMG-COA",
+        "R\u00c9DUCTASE",
+        "STATINES",
+        "OZANIMOD"
+    ],
+    "ELVIT\u00c9GRAVIR": [
+        "ESTROPROGESTATIFS",
+        "CONTRACEPTIFS",
+        "ITRACONAZOLE",
+        "KETOCONAZOLE",
+        "RIFABUTINE"
+    ],
+    "ENOXACINE": [
+        "CAFEINE",
+        "DULOXETINE",
+        "ROPINIROLE",
+        "TH\u00c9OPHYLLINE",
+        "EXTRAPOLATION",
+        "AMINOPHYLLINE"
+    ],
+    "ENTACAPONE": [
+        "FER"
+    ],
+    "ENZALUTAMIDE": [
+        "GEMFIBROZIL"
+    ],
+    "EPLERENONE": [
+        "ANTAGONISTES",
+        "R\u00c9CEPTEURS",
+        "ANGIOTENSINE",
+        "INHIBITEURS",
+        "ENZYME",
+        "CONVERSION",
+        "CYP3A4"
+    ],
+    "ERGOTAMINE": [
+        "DALFOPRISTINE",
+        "DILTIAZEM",
+        "EFAVIRENZ",
+        "MACROLIDES",
+        "SPIRAMYCINE",
+        "OXPRENOLOL",
+        "PROPRANOLOL",
+        "QUINUPRISTINE",
+        "STIRIPENTOL",
+        "TRICLABENDAZOLE"
+    ],
+    "ERYTHROMYCINE": [
+        "AFATINIB",
+        "ALFENTANIL",
+        "ATORVASTATINE",
+        "BUSPIRONE",
+        "CARBAMAZEPINE",
+        "\u00c9DOXABAN",
+        "FIDAXOMICINE",
+        "GLIBENCLAMIDE",
+        "GLIMEPIRIDE",
+        "IMMUNOSUPPRESSEURS",
+        "NINT\u00c9DANIB",
+        "PRAVASTATINE",
+        "TALAZOPARIB",
+        "TH\u00c9OPHYLLINE",
+        "EXTRAPOLATION",
+        "AMINOPHYLLINE",
+        "VENLAFAXINE",
+        "VERAPAMIL"
+    ],
+    "ESCITALOPRAM": [
+        "ESOMEPRAZOLE",
+        "OMEPRAZOLE"
+    ],
+    "ESMOLOL": [
+        "AMIODARONE",
+        "ANTIARYTHMIQUES",
+        "CLASSE",
+        "IA",
+        "DILTIAZEM",
+        "PROPAFENONE",
+        "VERAPAMIL"
+    ],
+    "ESOMEPRAZOLE": [
+        "ESCITALOPRAM"
+    ],
+    "ESTRAMUSTINE": [
+        "ACIDE",
+        "CLODRONIQUE",
+        "CALCIUM",
+        "INHIBITEURS",
+        "ENZYME",
+        "CONVERSION"
+    ],
+    "ESTROG\u00c8NES NON CONTRACEPTIFS": [
+        "HORMONES",
+        "THYRO\u00cfDIENNES",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "OXCARBAZEPINE"
+    ],
+    "ESTROPROGESTATIFS CONTRACEPTIFS": [
+        "APREPITANT",
+        "BOSENTAN",
+        "ELVIT\u00c9GRAVIR",
+        "FELBAMATE",
+        "GRISEOFULVINE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "LAMOTRIGINE",
+        "MILLEPERTUIS",
+        "MODAFINIL",
+        "RUFINAMIDE",
+        "TOPIRAMATE",
+        "V\u00c9MURAF\u00c9NIB"
+    ],
+    "ESZOPICLONE": [
+        "INHIBITEURS",
+        "CYP3A4",
+        "RIFAMPICINE"
+    ],
+    "ETANERCEPT": [
+        "ANAKINRA"
+    ],
+    "\u00c9TELCALC\u00c9TIDE": [
+        "CINACALCET"
+    ],
+    "ETHINYLESTRADIOL": [
+        "DASABUVIR",
+        "GL\u00c9CAPR\u00c9VIR",
+        "PIBRENTASVIR",
+        "OMBITASVIR",
+        "PARITAPR\u00c9VIR"
+    ],
+    "ETHOSUXIMIDE": [
+        "CARBAMAZEPINE"
+    ],
+    "ETOPOSIDE": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "MILLEPERTUIS"
+    ],
+    "ETRAVIRINE": [
+        "ATAZANAVIR",
+        "CLARITHROMYCINE",
+        "COBICISTAT",
+        "DARUNAVIR",
+        "GRAZOPREVIR",
+        "ELBASVIR"
+    ],
+    "EVEROLIMUS": [
+        "CICLOSPORINE",
+        "OMBITASVIR",
+        "PARITAPR\u00c9VIR",
+        "VERAPAMIL"
+    ],
+    "EXEMESTANE": [
+        "RIFAMPICINE"
+    ],
+    "EZETIMIBE": [
+        "CICLOSPORINE",
+        "FENOFIBRATE"
+    ],
+    "FELBAMATE": [
+        "CARBAMAZEPINE",
+        "ESTROPROGESTATIFS",
+        "CONTRACEPTIFS",
+        "PH\u00c9NOBARBITAL",
+        "EXTRAPOLATION",
+        "PRIMIDONE",
+        "PH\u00c9NYTO\u00cfNE",
+        "FOSPH\u00c9NYTO\u00cfNE",
+        "VALPRO\u00cfQUE",
+        "ACIDE",
+        "VALPROMIDE"
+    ],
+    "FENOFIBRATE": [
+        "CICLOSPORINE",
+        "EZETIMIBE"
+    ],
+    "FENTANYL": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "RIFAMPICINE"
+    ],
+    "FER": [
+        "SELS",
+        "FER",
+        "INJECTABLE",
+        "ACIDE",
+        "ACETOHYDROXAMIQUE",
+        "BICT\u00c9GRAVIR",
+        "BISPHOSPHONATES",
+        "CALCIUM",
+        "CYCLINES",
+        "ENTACAPONE",
+        "FLUOROQUINOLONES",
+        "HORMONES",
+        "THYRO\u00cfDIENNES",
+        "INHIBITEURS",
+        "D",
+        "INT\u00c9GRASE",
+        "LEVODOPA",
+        "METHYLDOPA",
+        "PENICILLAMINE",
+        "ROXADUSTAT",
+        "STRONTIUM",
+        "TRIENTINE",
+        "ZINC"
+    ],
+    "FEXOFENADINE": [
+        "MILLEPERTUIS"
+    ],
+    "FIBRATES": [
+        "FIBRATES",
+        "AUTRES",
+        "ANTIVITAMINES",
+        "K",
+        "COLCHICINE",
+        "INHIBITEURS",
+        "HMG-COA",
+        "R\u00c9DUCTASE",
+        "STATINES"
+    ],
+    "FIDAXOMICINE": [
+        "AMIODARONE",
+        "CICLOSPORINE",
+        "CLARITHROMYCINE",
+        "DRONEDARONE",
+        "ERYTHROMYCINE",
+        "KETOCONAZOLE",
+        "VERAPAMIL"
+    ],
+    "FINGOLIMOD": [
+        "BRADYCARDISANTS"
+    ],
+    "FLUCLOXACILLINE": [
+        "PARACETAMOL",
+        "VORICONAZOLE"
+    ],
+    "FLUCONAZOLE": [
+        "ABROCITINIB",
+        "ALFENTANIL",
+        "AMIODARONE",
+        "ANTIVITAMINES",
+        "K",
+        "APIXABAN",
+        "ATORVASTATINE",
+        "CARBAMAZEPINE",
+        "COLCHICINE",
+        "DOMPERIDONE",
+        "HALOFANTRINE",
+        "IBRUTINIB",
+        "IMMUNOSUPPRESSEURS",
+        "IVACAFTOR",
+        "SEUL",
+        "ASSOCI\u00c9",
+        "LOSARTAN",
+        "MIDAZOLAM",
+        "NEVIRAPINE",
+        "OLAPARIB",
+        "OXYCODONE",
+        "PH\u00c9NYTO\u00cfNE",
+        "EXTRAPOLATION",
+        "FOSPH\u00c9NYTO\u00cfNE",
+        "PIMOZIDE",
+        "RIFABUTINE",
+        "RIFAMPICINE",
+        "RIVAROXABAN",
+        "SIMVASTATINE",
+        "SULFAMIDES",
+        "HYPOGLYC\u00c9MIANTS",
+        "TH\u00c9OPHYLLINE",
+        "AMINOPHYLLINE",
+        "TOLVAPTAN",
+        "VINCA-ALCALO\u00cfDES",
+        "CYTOTOXIQUES"
+    ],
+    "FLUCYTOSINE": [
+        "CYTOTOXIQUES",
+        "GANCICLOVIR",
+        "IMMUNOSUPPRESSEURS",
+        "VALGANCICLOVIR",
+        "ZIDOVUDINE"
+    ],
+    "FLUDARABINE": [
+        "PENTOSTATINE"
+    ],
+    "FLUOROQUINOLONES": [
+        "ANTIVITAMINES",
+        "K",
+        "FER",
+        "GLUCOCORTICO\u00cfDES",
+        "HYDROCORTISONE",
+        "MYCOPHENOLATE",
+        "MOFETIL",
+        "STRONTIUM",
+        "SUCRALFATE",
+        "ZINC"
+    ],
+    "FLUOROURACILE (ET, PAR EXTRAPOLATION, AUTRES FLUOROPYRIMIDINES)": [
+        "ACIDE",
+        "FOLINIQUE",
+        "ANTIVITAMINES",
+        "K",
+        "INTERFERON",
+        "ALFA",
+        "METRONIDAZOLE",
+        "ORNIDAZOLE"
+    ],
+    "FLUOXETINE": [
+        "CARBAMAZEPINE",
+        "CODEINE",
+        "MEQUITAZINE",
+        "METOPROLOL",
+        "NEBIVOLOL",
+        "PH\u00c9NYTO\u00cfNE",
+        "EXTRAPOLATION",
+        "FOSPH\u00c9NYTO\u00cfNE",
+        "PIMOZIDE",
+        "RISPERIDONE",
+        "TAMOXIFENE",
+        "TETRABENAZINE",
+        "TRAMADOL"
+    ],
+    "FLUVASTATINE": [
+        "CICLOSPORINE"
+    ],
+    "FLUVOXAMINE": [
+        "ABROCITINIB",
+        "AGOMELATINE",
+        "CARBAMAZEPINE",
+        "CLOZAPINE",
+        "DULOXETINE",
+        "LIDOCAINE",
+        "METHADONE",
+        "MEXILETINE",
+        "OLANZAPINE",
+        "PH\u00c9NYTO\u00cfNE",
+        "EXTRAPOLATION",
+        "FOSPH\u00c9NYTO\u00cfNE",
+        "PIRFENIDONE",
+        "PROPRANOLOL",
+        "ROPINIROLE",
+        "TH\u00c9OPHYLLINE",
+        "AMINOPHYLLINE"
+    ],
+    "FOLATES": [
+        "PH\u00c9NOBARBITAL",
+        "EXTRAPOLATION",
+        "PRIMIDONE",
+        "PH\u00c9NYTO\u00cfNE",
+        "FOSPH\u00c9NYTO\u00cfNE"
+    ],
+    "FOSAMPRENAVIR": [
+        "EFAVIRENZ",
+        "MARAVIROC",
+        "NEVIRAPINE"
+    ],
+    "FOSCARNET": [
+        "PENTAMIDINE"
+    ],
+    "FOSTAMATINIB": [
+        "ROSUVASTATINE"
+    ],
+    "FOSTEMSAVIR": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "MILLEPERTUIS",
+        "MITOTANE",
+        "ROSUVASTATINE"
+    ],
+    "FOTEMUSTINE": [
+        "DACARBAZINE"
+    ],
+    "FUROSEMIDE": [
+        "PH\u00c9NYTO\u00cfNE",
+        "EXTRAPOLATION",
+        "FOSPH\u00c9NYTO\u00cfNE"
+    ],
+    "GANCICLOVIR": [
+        "DIDANOSINE",
+        "FLUCYTOSINE",
+        "MARIBAVIR",
+        "ZIDOVUDINE"
+    ],
+    "GEMFIBROZIL": [
+        "DASABUVIR",
+        "ENZALUTAMIDE",
+        "OZANIMOD",
+        "PACLITAXEL",
+        "REPAGLINIDE",
+        "ROXADUSTAT",
+        "SELEXIPAG",
+        "TUCATINIB"
+    ],
+    "GILT\u00c9RITINIB": [
+        "MILLEPERTUIS"
+    ],
+    "GINKGO": [
+        "EFAVIRENZ"
+    ],
+    "GIVOSIRAN": [
+        "THEOPHYLLINE"
+    ],
+    "GLASD\u00c9GIB": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "SUBSTANCES",
+        "SUSCEPTIBLES",
+        "DONNER",
+        "TORSADES",
+        "POINTES"
+    ],
+    "GL\u00c9CAPR\u00c9VIR + PIBRENTASVIR": [
+        "ATAZANAVIR",
+        "ATORVASTATINE",
+        "DABIGATRAN",
+        "DIGOXINE",
+        "ETHINYLESTRADIOL",
+        "MILLEPERTUIS",
+        "SIMVASTATINE"
+    ],
+    "GLIBENCLAMIDE": [
+        "BOSENTAN",
+        "ERYTHROMYCINE"
+    ],
+    "GLIMEPIRIDE": [
+        "ERYTHROMYCINE"
+    ],
+    "GLINIDES": [
+        "B\u00caTA-BLOQUANTS",
+        "ESMOLOL",
+        "Y",
+        "COMPRIS",
+        "COLLYRES",
+        "INSUFFISANCE",
+        "CARDIAQUE"
+    ],
+    "GLIPIZIDE": [
+        "VORICONAZOLE"
+    ],
+    "GLIPTINES": [
+        "B\u00caTA-BLOQUANTS",
+        "ESMOLOL",
+        "Y",
+        "COMPRIS",
+        "COLLYRES",
+        "INHIBITEURS",
+        "ENZYME",
+        "CONVERSION",
+        "HMG-COA",
+        "R\u00c9DUCTASE",
+        "STATINES"
+    ],
+    "GLOBULINES ANTILYMPHOCYTAIRES": [
+        "IMMUNOSUPPRESSEURS",
+        "VACCINS",
+        "VIVANTS",
+        "ATT\u00c9NU\u00c9S"
+    ],
+    "GLUCOCORTICO\u00cfDES (SAUF HYDROCORTISONE)": [
+        "ACIDE",
+        "ACETYLSALICYLIQUE",
+        "ANTICOAGULANTS",
+        "ANTI-INFLAMMATOIRES",
+        "ST\u00c9RO\u00cfDIENS",
+        "COBIM\u00c9TINIB",
+        "CURARES",
+        "D\u00c9POLARISANTS",
+        "FLUOROQUINOLONES",
+        "H\u00c9PARINES",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "ISONIAZIDE",
+        "VACCINS",
+        "VIVANTS",
+        "ATT\u00c9NU\u00c9S"
+    ],
+    "GLUCOCORTICO\u00cfDES PAR VOIE INTRA-ARTICULAIRE ET M\u00c9TABOLIS\u00c9S": [
+        "COBICISTAT",
+        "RITONAVIR"
+    ],
+    "GLUCOSAMINE": [
+        "ANTIVITAMINES",
+        "K"
+    ],
+    "GLYCEROL": [
+        "LITHIUM"
+    ],
+    "GRAZOPREVIR + ELBASVIR": [
+        "CICLOSPORINE",
+        "ETRAVIRINE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "HMG-COA",
+        "R\u00c9DUCTASE",
+        "STATINES",
+        "CYP3A4",
+        "SUNITINIB",
+        "TACROLIMUS"
+    ],
+    "GRISEOFULVINE": [
+        "ESTROPROGESTATIFS",
+        "CONTRACEPTIFS",
+        "PROGESTATIFS"
+    ],
+    "GUANETHIDINE": [
+        "IMAO",
+        "IRR\u00c9VERSIBLES"
+    ],
+    "HALOFANTRINE": [
+        "FLUCONAZOLE",
+        "INHIBITEURS",
+        "CYP3A4",
+        "JOSAMYCINE",
+        "PAMPLEMOUSSE",
+        "JUS",
+        "FRUIT",
+        "STIRIPENTOL"
+    ],
+    "HALOPERIDOL": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "RIFAMPICINE"
+    ],
+    "HALOTHANE": [
+        "B\u00caTA-2",
+        "MIM\u00c9TIQUES",
+        "TH\u00c9OPHYLLINE",
+        "EXTRAPOLATION",
+        "AMINOPHYLLINE"
+    ],
+    "H\u00c9PARINES": [
+        "ANTIAGR\u00c9GANTS",
+        "PLAQUETTAIRES",
+        "ANTICOAGULANTS",
+        "COBIM\u00c9TINIB",
+        "D\u00c9FIBROTIDE",
+        "GLUCOCORTICO\u00cfDES",
+        "HYDROCORTISONE"
+    ],
+    "H\u00c9PARINES (DOSES CURATIVES ET/OU SUJET \u00c2G\u00c9)": [
+        "ACIDE",
+        "ACETYLSALICYLIQUE",
+        "ANTI-INFLAMMATOIRES",
+        "ST\u00c9RO\u00cfDIENS",
+        "DEXTRAN",
+        "THROMBOLYTIQUES"
+    ],
+    "H\u00c9PARINES (DOSES PR\u00c9VENTIVES)": [
+        "ACIDE",
+        "ACETYLSALICYLIQUE",
+        "ANTI-INFLAMMATOIRES",
+        "ST\u00c9RO\u00cfDIENS"
+    ],
+    "HORMONES THYRO\u00cfDIENNES": [
+        "ANTIS\u00c9CR\u00c9TOIRES",
+        "INHIBITEURS",
+        "POMPE",
+        "PROTONS",
+        "CALCIUM",
+        "CHLOROQUINE",
+        "EFAVIRENZ",
+        "ESTROG\u00c8NES",
+        "CONTRACEPTIFS",
+        "FER",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "MILLEPERTUIS",
+        "ORLISTAT",
+        "PROGUANIL",
+        "R\u00c9SINES",
+        "CH\u00c9LATRICES",
+        "RIFABUTINE",
+        "RIFAMPICINE",
+        "SELPERCATINIB",
+        "SUCRALFATE"
+    ],
+    "HUILES MIN\u00c9RALES": [
+        "PR\u00c9SERVATIFS",
+        "LATEX"
+    ],
+    "HYDROCORTISONE": [
+        "INDUCTEURS",
+        "ENZYMATIQUES"
+    ],
+    "HYDROQUINIDINE": [
+        "ALCALINISANTS",
+        "URINAIRES",
+        "DIGOXINE",
+        "ITRACONAZOLE"
+    ],
+    "HYDROXYCARBAMIDE": [
+        "VACCINS",
+        "VIVANTS",
+        "ATT\u00c9NU\u00c9S"
+    ],
+    "HYDROXYCHLOROQUINE": [
+        "SUBSTANCES",
+        "SUSCEPTIBLES",
+        "DONNER",
+        "TORSADES",
+        "POINTES"
+    ],
+    "HYPERKALI\u00c9MIANTS": [
+        "AUTRES",
+        "HYPERKALI\u00c9MIANTS"
+    ],
+    "HYPNOTIQUES": [
+        "AUTRES",
+        "HYPNOTIQUES"
+    ],
+    "HYPOKALI\u00c9MIANTS": [
+        "AUTRES",
+        "HYPOKALI\u00c9MIANTS",
+        "DIGOXINE",
+        "SUBSTANCES",
+        "SUSCEPTIBLES",
+        "DONNER",
+        "TORSADES",
+        "POINTES"
+    ],
+    "HYPONATR\u00c9MIANTS": [
+        "AUTRES",
+        "M\u00c9DICAMENTS",
+        "HYPONATR\u00c9MIANTS"
+    ],
+    "IBRUTINIB": [
+        "AMIODARONE",
+        "ANTIAGR\u00c9GANTS",
+        "PLAQUETTAIRES",
+        "ANTICOAGULANTS",
+        "CRIZOTINIB",
+        "DILTIAZEM",
+        "DRONEDARONE",
+        "FLUCONAZOLE",
+        "IMATINIB",
+        "VERAPAMIL"
+    ],
+    "ID\u00c9LALISIB": [
+        "ANTAGONISTES",
+        "CANAUX",
+        "CALCIQUES",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "MILLEPERTUIS",
+        "RIFAMPICINE",
+        "SUBSTRATS",
+        "RISQUE"
+    ],
+    "IFOSFAMIDE": [
+        "APREPITANT",
+        "PH\u00c9NOBARBITAL",
+        "EXTRAPOLATION",
+        "PRIMIDONE",
+        "V\u00c9MURAF\u00c9NIB"
+    ],
+    "IMAO IRR\u00c9VERSIBLES": [
+        "ADR\u00c9NALINE",
+        "BUCCO-DENTAIRE",
+        "SOUS-CUTAN\u00c9E",
+        "ALCOOL",
+        "BOISSON",
+        "EXCIPIENT",
+        "DEXTROMETHORPHANE",
+        "GUANETHIDINE",
+        "INHIBITEURS",
+        "CAT\u00c9CHOL-O-M\u00c9THYLTRANSF\u00c9RASE",
+        "COMT",
+        "S\u00c9LECTIFS",
+        "RECAPTURE",
+        "S\u00c9ROTONINE",
+        "M\u00c9DICAMENTS",
+        "MIXTES",
+        "ADR\u00c9NERGIQUES-S\u00c9ROTONINERGIQUES",
+        "MIDODRINE",
+        "MILLEPERTUIS",
+        "PETHIDINE",
+        "RESERPINE",
+        "SYMPATHOMIM\u00c9TIQUES",
+        "ALPHA",
+        "VOIES",
+        "ORALE",
+        "NASALE",
+        "B\u00caTA",
+        "IM",
+        "IV",
+        "INDIRECTS",
+        "TETRABENAZINE",
+        "TIANEPTINE",
+        "TRAMADOL",
+        "TRIPTANS",
+        "M\u00c9TABOLIS\u00c9S",
+        "MAO"
+    ],
+    "IMAO-A R\u00c9VERSIBLES, Y COMPRIS OXAZOLIDINONES ET BLEU DE M\u00c9THYL\u00c8NE": [
+        "DEXTROMETHORPHANE",
+        "IMAO-B",
+        "INHIBITEURS",
+        "S\u00c9LECTIFS",
+        "RECAPTURE",
+        "S\u00c9ROTONINE",
+        "M\u00c9DICAMENTS",
+        "MIXTES",
+        "ADR\u00c9NERGIQUES-S\u00c9ROTONINERGIQUES",
+        "MILLEPERTUIS",
+        "PETHIDINE",
+        "SYMPATHOMIM\u00c9TIQUES",
+        "ALPHA",
+        "B\u00caTA",
+        "IM",
+        "IV",
+        "INDIRECTS",
+        "TRAMADOL",
+        "TRIPTANS",
+        "M\u00c9TABOLIS\u00c9S",
+        "MAO"
+    ],
+    "IMAO-B": [
+        "BUPROPION",
+        "IMAO-A",
+        "R\u00c9VERSIBLES",
+        "Y",
+        "COMPRIS",
+        "OXAZOLIDINONES",
+        "BLEU",
+        "M\u00c9THYL\u00c8NE",
+        "INHIBITEURS",
+        "S\u00c9LECTIFS",
+        "RECAPTURE",
+        "S\u00c9ROTONINE",
+        "LEVODOPA",
+        "PETHIDINE",
+        "TRAMADOL",
+        "TRIPTANS",
+        "M\u00c9TABOLIS\u00c9S",
+        "MAO"
+    ],
+    "IMATINIB": [
+        "ANTICOAGULANTS",
+        "IBRUTINIB",
+        "T\u00c9DIZOLIDE"
+    ],
+    "IMMUNOSUPPRESSEURS": [
+        "APALUTAMIDE",
+        "CLARITHROMYCINE",
+        "CYTOTOXIQUES",
+        "DALFOPRISTINE",
+        "DILTIAZEM",
+        "DRONEDARONE",
+        "ERYTHROMYCINE",
+        "FLUCONAZOLE",
+        "FLUCYTOSINE",
+        "GLOBULINES",
+        "ANTILYMPHOCYTAIRES",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "ITRACONAZOLE",
+        "KETOCONAZOLE",
+        "L\u00c9TERMOVIR",
+        "MARIBAVIR",
+        "MILLEPERTUIS",
+        "NICARDIPINE",
+        "PAMPLEMOUSSE",
+        "JUS",
+        "FRUIT",
+        "POSACONAZOLE",
+        "PRISTINAMYCINE",
+        "QUINUPRISTINE",
+        "RANOLAZINE",
+        "STIRIPENTOL",
+        "TELITHROMYCINE",
+        "VACCINS",
+        "VIVANTS",
+        "ATT\u00c9NU\u00c9S",
+        "V\u00c9MURAF\u00c9NIB",
+        "VORICONAZOLE"
+    ],
+    "INDUCTEURS ENZYMATIQUES": [
+        "ANDROG\u00c8NES",
+        "APR\u00c9MILAST",
+        "ARIPIPRAZOLE",
+        "BAZ\u00c9DOXIF\u00c8NE",
+        "B\u00c9DAQUILINE",
+        "BICT\u00c9GRAVIR",
+        "BORTEZOMIB",
+        "CABAZITAXEL",
+        "CABOTEGRAVIR",
+        "CASPOFUNGINE",
+        "CYCLOPHOSPHAMIDE",
+        "CYPROTERONE",
+        "DASABUVIR",
+        "DISOPYRAMIDE",
+        "DOCETAXEL",
+        "DOLUT\u00c9GRAVIR",
+        "ESTROPROGESTATIFS",
+        "CONTRACEPTIFS",
+        "ETOPOSIDE",
+        "FOSTEMSAVIR",
+        "GLASD\u00c9GIB",
+        "GLUCOCORTICO\u00cfDES",
+        "HYDROCORTISONE",
+        "GRAZOPREVIR",
+        "ELBASVIR",
+        "IMMUNOSUPPRESSEURS",
+        "IRINOTECAN",
+        "ISAVUCONAZOLE",
+        "ITRACONAZOLE",
+        "IVACAFTOR",
+        "SEUL",
+        "ASSOCI\u00c9",
+        "LEVONORGESTREL",
+        "LURASIDONE",
+        "MACITENTAN",
+        "MARAVIROC",
+        "MARIBAVIR",
+        "METHADONE",
+        "MIANSERINE",
+        "MIDOSTAURINE",
+        "NALOXEGOL",
+        "N\u00c9TUPITANT",
+        "OLAPARIB",
+        "OMBITASVIR",
+        "PARITAPR\u00c9VIR",
+        "OXYCODONE",
+        "PACLITAXEL",
+        "PROGESTATIFS",
+        "ASSOCI\u00c9S",
+        "ESTROG\u00c8NE",
+        "R\u00c9GORAF\u00c9NIB",
+        "RILPIVIRINE",
+        "ROLAPITANT",
+        "SERTRALINE",
+        "SOFOSBUVIR",
+        "TAMOXIFENE",
+        "T\u00c9NOFOVIR",
+        "ALAF\u00c9NAMIDE",
+        "V\u00c9MURAF\u00c9NIB",
+        "V\u00c9N\u00c9TOCLAX",
+        "VINCA-ALCALO\u00cfDES",
+        "CYTOTOXIQUES",
+        "VISMOD\u00c9GIB"
+    ],
+    "INDUCTEURS ENZYMATIQUES PUISSANTS": [
+        "ABIRATERONE",
+        "AFATINIB",
+        "ALBENDAZOLE",
+        "ANTAGONISTES",
+        "CANAUX",
+        "CALCIQUES",
+        "ANTIARYTHMIQUES",
+        "CLASSE",
+        "IA",
+        "ANTIVITAMINES",
+        "K",
+        "APIXABAN",
+        "APREPITANT",
+        "BOSENTAN",
+        "CANNABIDIOL",
+        "CLOZAPINE",
+        "COBICISTAT",
+        "DABIGATRAN",
+        "DAROLUTAMIDE",
+        "DEFERASIROX",
+        "D\u00c9LAMANID",
+        "DOXYCYCLINE",
+        "DRONEDARONE",
+        "ESTROG\u00c8NES",
+        "CONTRACEPTIFS",
+        "FENTANYL",
+        "HALOPERIDOL",
+        "HORMONES",
+        "THYRO\u00cfDIENNES",
+        "ID\u00c9LALISIB",
+        "INHIBITEURS",
+        "5-ALPHA",
+        "REDUCTASE",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "TYROSINE",
+        "KINASES",
+        "M\u00c9TABOLIS\u00c9S",
+        "IVABRADINE",
+        "L\u00c9DIPASVIR",
+        "L\u00c9NACAPAVIR",
+        "METRONIDAZOLE",
+        "MIDAZOLAM",
+        "MIN\u00c9RALOCORTICO\u00cfDES",
+        "MONTELUKAST",
+        "NIMODIPINE",
+        "OZANIMOD",
+        "P\u00c9RAMPANEL",
+        "POSACONAZOLE",
+        "PRAZIQUANTEL",
+        "PROCARBAZINE",
+        "PROPAFENONE",
+        "QUETIAPINE",
+        "QUININE",
+        "RANOLAZINE",
+        "RIVAROXABAN",
+        "SACITUZUMAB",
+        "SOTORASIB",
+        "STIRIPENTOL",
+        "TELITHROMYCINE",
+        "TH\u00c9OPHYLLINE",
+        "EXTRAPOLATION",
+        "AMINOPHYLLINE",
+        "TIAGABINE",
+        "TICAGRELOR",
+        "ULIPRISTAL",
+        "VELPATASVIR",
+        "VITAMINE",
+        "D",
+        "VORICONAZOLE",
+        "VOXELOTOR"
+    ],
+    "INHIBITEURS DE LA 5-ALPHA REDUCTASE": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "MILLEPERTUIS",
+        "RIFAMPICINE"
+    ],
+    "INHIBITEURS DE LA CAT\u00c9CHOL-O-M\u00c9THYLTRANSF\u00c9RASE (COMT)": [
+        "IMAO",
+        "IRR\u00c9VERSIBLES"
+    ],
+    "INHIBITEURS DE LA PHOSPHODIESTERASE DE TYPE 5": [
+        "ALPHABLOQUANTS",
+        "VIS\u00c9E",
+        "UROLOGIQUE",
+        "ANTIHYPERTENSEURS",
+        "ALPHA-BLOQUANTS",
+        "D\u00c9RIV\u00c9S",
+        "NITR\u00c9S",
+        "APPARENT\u00c9S",
+        "INHIBITEURS",
+        "CYP3A4",
+        "RIOCIGUAT"
+    ],
+    "INHIBITEURS DE LA XANTHINE OXYDASE": [
+        "ANTIPURINES",
+        "TH\u00c9OPHYLLINE",
+        "EXTRAPOLATION",
+        "AMINOPHYLLINE"
+    ],
+    "INHIBITEURS DE L'ENZYME DE CONVERSION": [
+        "ACIDE",
+        "ACETYLSALICYLIQUE",
+        "ANTAGONISTES",
+        "R\u00c9CEPTEURS",
+        "ANGIOTENSINE",
+        "ANTI-INFLAMMATOIRES",
+        "ST\u00c9RO\u00cfDIENS",
+        "DIUR\u00c9TIQUES",
+        "\u00c9PARGNEURS",
+        "POTASSIUM",
+        "SEULS",
+        "ASSOCI\u00c9S",
+        "HYPOKALI\u00c9MIANTS",
+        "EPLERENONE",
+        "ESTRAMUSTINE",
+        "GLIPTINES",
+        "INSULINE",
+        "LITHIUM",
+        "OR",
+        "SACUBITRIL",
+        "SIROLIMUS",
+        "SPIRONOLACTONE",
+        "SULFAMIDES",
+        "HYPOGLYC\u00c9MIANTS",
+        "TEMSIROLIMUS"
+    ],
+    "INHIBITEURS DE L'HMG-COA R\u00c9DUCTASE (STATINES)": [
+        "ACIDE",
+        "FUSIDIQUE",
+        "ANTIVITAMINES",
+        "K",
+        "COBIM\u00c9TINIB",
+        "COLCHICINE",
+        "DAPTOMYCINE",
+        "ELTROMBOPAG",
+        "FIBRATES",
+        "GLIPTINES",
+        "GRAZOPREVIR",
+        "ELBASVIR",
+        "L\u00c9DIPASVIR",
+        "LENALIDOMIDE",
+        "L\u00c9TERMOVIR",
+        "ROXADUSTAT"
+    ],
+    "INHIBITEURS DE PROT\u00c9ASES BOOST\u00c9S PAR RITONAVIR": [
+        "AFATINIB",
+        "ALBENDAZOLE",
+        "ANTIVITAMINES",
+        "K",
+        "ATORVASTATINE",
+        "ATOVAQUONE",
+        "BUPRENORPHINE",
+        "CLARITHROMYCINE",
+        "CYPROTERONE",
+        "DIGOXINE",
+        "ESTROPROGESTATIFS",
+        "CONTRACEPTIFS",
+        "HORMONES",
+        "THYRO\u00cfDIENNES",
+        "IMMUNOSUPPRESSEURS",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "ITRACONAZOLE",
+        "LAMOTRIGINE",
+        "METHADONE",
+        "MILLEPERTUIS",
+        "NINT\u00c9DANIB",
+        "PROGESTATIFS",
+        "QUINIDINE",
+        "RIFABUTINE",
+        "RIFAMPICINE",
+        "ROSUVASTATINE",
+        "TALAZOPARIB",
+        "T\u00c9NOFOVIR",
+        "ALAF\u00c9NAMIDE",
+        "TH\u00c9OPHYLLINE",
+        "EXTRAPOLATION",
+        "AMINOPHYLLINE",
+        "ULIPRISTAL",
+        "VENLAFAXINE",
+        "VORICONAZOLE"
+    ],
+    "INHIBITEURS DE TYROSINE KINASES M\u00c9TABOLIS\u00c9S": [
+        "ANTIS\u00c9CR\u00c9TOIRES",
+        "ANTIHISTAMINIQUES",
+        "H2",
+        "INHIBITEURS",
+        "POMPE",
+        "PROTONS",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "CYP3A4",
+        "MILLEPERTUIS",
+        "RIFAMPICINE"
+    ],
+    "INHIBITEURS D'INT\u00c9GRASE": [
+        "CALCIUM",
+        "FER",
+        "MAGN\u00c9SIUM",
+        "ZINC"
+    ],
+    "INHIBITEURS DIRECTS DE LA THROMBINE \u00c0 INDICATION SP\u00c9CIFIQUE": [
+        "AUTRES",
+        "M\u00c9DICAMENTS",
+        "AGISSANT",
+        "H\u00c9MOSTASE"
+    ],
+    "INHIBITEURS PUISSANTS DU CYP3A4": [
+        "ALCALO\u00cfDES",
+        "ERGOT",
+        "SEIGLE",
+        "VASOCONSTRICTEURS",
+        "ALFENTANIL",
+        "ALFUZOSINE",
+        "ALPRAZOLAM",
+        "ANTAGONISTES",
+        "CANAUX",
+        "CALCIQUES",
+        "ANTISPASMODIQUES",
+        "URINAIRES",
+        "APIXABAN",
+        "B\u00c9DAQUILINE",
+        "BORTEZOMIB",
+        "BOSENTAN",
+        "BRENTUXIMAB",
+        "CABAZITAXEL",
+        "COBICISTAT",
+        "COLCHICINE",
+        "CORTICO\u00cfDES",
+        "M\u00c9TABOLIS\u00c9S",
+        "NOTAMMENT",
+        "INHAL\u00c9S",
+        "DAPOX\u00c9TINE",
+        "D\u00c9LAMANID",
+        "DISOPYRAMIDE",
+        "DOCETAXEL",
+        "DOMPERIDONE",
+        "DRONEDARONE",
+        "\u00c9LIGLUSTAT",
+        "EPLERENONE",
+        "ESZOPICLONE",
+        "FENTANYL",
+        "GLASD\u00c9GIB",
+        "GRAZOPREVIR",
+        "ELBASVIR",
+        "HALOFANTRINE",
+        "ID\u00c9LALISIB",
+        "INHIBITEURS",
+        "PHOSPHODIESTERASE",
+        "TYPE",
+        "5",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "TYROSINE",
+        "KINASES",
+        "IRINOTECAN",
+        "ISAVUCONAZOLE",
+        "IVABRADINE",
+        "IVACAFTOR",
+        "SEUL",
+        "ASSOCI\u00c9",
+        "LOMITAPIDE",
+        "LUMEFANTRINE",
+        "LURASIDONE",
+        "MARAVIROC",
+        "MIDAZOLAM",
+        "MIDOSTAURINE",
+        "NALOXEGOL",
+        "OLAPARIB",
+        "OMBITASVIR",
+        "PARITAPR\u00c9VIR",
+        "OXYCODONE",
+        "PANOBINOSTAT",
+        "PIMOZIDE",
+        "QUETIAPINE",
+        "QUININE",
+        "RANOLAZINE",
+        "R\u00c9GORAF\u00c9NIB",
+        "RIOCIGUAT",
+        "RIVAROXABAN",
+        "SILODOSINE",
+        "SIMVASTATINE",
+        "SUBSTRATS",
+        "RISQUE",
+        "CYP3A4",
+        "SUFENTANIL",
+        "TAMSULOSINE",
+        "TELITHROMYCINE",
+        "TICAGRELOR",
+        "TOLVAPTAN",
+        "TRASTUZUMAB",
+        "EMTANSINE",
+        "TR\u00c9TINO\u00cfNE",
+        "V\u00c9N\u00c9TOCLAX",
+        "VERAPAMIL",
+        "VINCA-ALCALO\u00cfDES",
+        "CYTOTOXIQUES",
+        "ZOLPIDEM",
+        "ZOPICLONE"
+    ],
+    "INHIBITEURS S\u00c9LECTIFS DE LA RECAPTURE DE LA S\u00c9ROTONINE": [
+        "ANTIAGR\u00c9GANTS",
+        "PLAQUETTAIRES",
+        "ANTICOAGULANTS",
+        "ANTID\u00c9PRESSEURS",
+        "IMIPRAMINIQUES",
+        "ANTI-INFLAMMATOIRES",
+        "ST\u00c9RO\u00cfDIENS",
+        "COBIM\u00c9TINIB",
+        "CYPROHEPTADINE",
+        "IMAO",
+        "IRR\u00c9VERSIBLES",
+        "IMAO-A",
+        "R\u00c9VERSIBLES",
+        "Y",
+        "COMPRIS",
+        "OXAZOLIDINONES",
+        "BLEU",
+        "M\u00c9THYL\u00c8NE",
+        "IMAO-B",
+        "LITHIUM",
+        "MILLEPERTUIS",
+        "ORLISTAT",
+        "TRAMADOL",
+        "TRIPTANS"
+    ],
+    "INSULINE": [
+        "ALCOOL",
+        "BOISSON",
+        "EXCIPIENT",
+        "ANALOGUES",
+        "SOMATOSTATINE",
+        "B\u00caTA-2",
+        "MIM\u00c9TIQUES",
+        "B\u00caTA-BLOQUANTS",
+        "ESMOLOL",
+        "Y",
+        "COMPRIS",
+        "COLLYRES",
+        "INSUFFISANCE",
+        "CARDIAQUE",
+        "CHLORPROMAZINE",
+        "DANAZOL",
+        "INHIBITEURS",
+        "ENZYME",
+        "CONVERSION"
+    ],
+    "INTERFERON ALFA": [
+        "FLUOROURACILE",
+        "EXTRAPOLATION",
+        "AUTRES",
+        "FLUOROPYRIMIDINES"
+    ],
+    "IPILIMUMAB": [
+        "ANTICOAGULANTS"
+    ],
+    "IRINOTECAN": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "MILLEPERTUIS"
+    ],
+    "ISAVUCONAZOLE": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "MILLEPERTUIS"
+    ],
+    "ISONIAZIDE": [
+        "ANESTH\u00c9SIQUES",
+        "VOLATILS",
+        "HALOG\u00c9N\u00c9S",
+        "CARBAMAZEPINE",
+        "DISULFIRAME",
+        "GLUCOCORTICO\u00cfDES",
+        "HYDROCORTISONE",
+        "KETOCONAZOLE",
+        "PH\u00c9NYTO\u00cfNE",
+        "EXTRAPOLATION",
+        "FOSPH\u00c9NYTO\u00cfNE",
+        "PYRAZINAMIDE",
+        "RIFAMPICINE",
+        "STAVUDINE"
+    ],
+    "ISOPRENALINE": [
+        "ANESTH\u00c9SIQUES",
+        "VOLATILS",
+        "HALOG\u00c9N\u00c9S"
+    ],
+    "ITRACONAZOLE": [
+        "AFATINIB",
+        "ANTIS\u00c9CR\u00c9TOIRES",
+        "ANTIHISTAMINIQUES",
+        "H2",
+        "INHIBITEURS",
+        "POMPE",
+        "PROTONS",
+        "APREPITANT",
+        "ATORVASTATINE",
+        "BUPRENORPHINE",
+        "BUSPIRONE",
+        "BUSULFAN",
+        "DABIGATRAN",
+        "DIGOXINE",
+        "\u00c9DOXABAN",
+        "ELVIT\u00c9GRAVIR",
+        "HYDROQUINIDINE",
+        "IMMUNOSUPPRESSEURS",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "MILLEPERTUIS",
+        "NINT\u00c9DANIB",
+        "QUINIDINE",
+        "SALMETEROL",
+        "TALAZOPARIB",
+        "T\u00c9NOFOVIR",
+        "ALAF\u00c9NAMIDE",
+        "TRABECT\u00c9DINE",
+        "VENLAFAXINE"
+    ],
+    "IVABRADINE": [
+        "AZITHROMYCINE",
+        "DILTIAZEM",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "JOSAMYCINE",
+        "MILLEPERTUIS",
+        "PAMPLEMOUSSE",
+        "JUS",
+        "FRUIT",
+        "RIFAMPICINE",
+        "VERAPAMIL"
+    ],
+    "IVACAFTOR (SEUL OU ASSOCI\u00c9)": [
+        "FLUCONAZOLE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "PAMPLEMOUSSE",
+        "JUS",
+        "FRUIT"
+    ],
+    "JOSAMYCINE": [
+        "CARBAMAZEPINE",
+        "CICLOSPORINE",
+        "DISOPYRAMIDE",
+        "HALOFANTRINE",
+        "IVABRADINE",
+        "PIMOZIDE",
+        "SILDENAFIL",
+        "TACROLIMUS",
+        "TH\u00c9OPHYLLINE",
+        "EXTRAPOLATION",
+        "AMINOPHYLLINE"
+    ],
+    "KETAMINE": [
+        "TICLOPIDINE"
+    ],
+    "KETOCONAZOLE": [
+        "AFATINIB",
+        "ANTIS\u00c9CR\u00c9TOIRES",
+        "ANTIHISTAMINIQUES",
+        "H2",
+        "INHIBITEURS",
+        "POMPE",
+        "PROTONS",
+        "ATORVASTATINE",
+        "BUPRENORPHINE",
+        "DABIGATRAN",
+        "ELVIT\u00c9GRAVIR",
+        "FIDAXOMICINE",
+        "IMMUNOSUPPRESSEURS",
+        "ISONIAZIDE",
+        "LERCANIDIPINE",
+        "NEVIRAPINE",
+        "NINT\u00c9DANIB",
+        "RIFAMPICINE",
+        "SALMETEROL",
+        "T\u00c9NOFOVIR",
+        "ALAF\u00c9NAMIDE",
+        "VENLAFAXINE"
+    ],
+    "LAMIVUDINE": [
+        "CLADRIBINE",
+        "SORBITOL"
+    ],
+    "LAMOTRIGINE": [
+        "CARBAMAZEPINE",
+        "ESTROPROGESTATIFS",
+        "CONTRACEPTIFS",
+        "INHIBITEURS",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "OXCARBAZEPINE",
+        "VALPRO\u00cfQUE",
+        "ACIDE",
+        "EXTRAPOLATION",
+        "VALPROMIDE"
+    ],
+    "LANSOPRAZOLE": [
+        "TACROLIMUS"
+    ],
+    "LAPATINIB": [
+        "T\u00c9DIZOLIDE"
+    ],
+    "LAXATIFS (TYPE MACROGOL)": [
+        "M\u00c9DICAMENTS",
+        "ADMINISTR\u00c9S",
+        "ORALE"
+    ],
+    "L\u00c9DIPASVIR": [
+        "ANTIS\u00c9CR\u00c9TOIRES",
+        "INHIBITEURS",
+        "POMPE",
+        "PROTONS",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "HMG-COA",
+        "R\u00c9DUCTASE",
+        "STATINES",
+        "MILLEPERTUIS",
+        "RIFABUTINE",
+        "RIFAMPICINE",
+        "TENOFOVIR",
+        "DISOPROXIL"
+    ],
+    "L\u00c9NACAPAVIR": [
+        "ATAZANAVIR",
+        "EFAVIRENZ",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "MILLEPERTUIS",
+        "OXCARBAZEPINE",
+        "RIFAMPICINE"
+    ],
+    "LENALIDOMIDE": [
+        "INHIBITEURS",
+        "HMG-COA",
+        "R\u00c9DUCTASE",
+        "STATINES"
+    ],
+    "LERCANIDIPINE": [
+        "CICLOSPORINE",
+        "KETOCONAZOLE",
+        "PAMPLEMOUSSE",
+        "JUS",
+        "FRUIT"
+    ],
+    "L\u00c9TERMOVIR": [
+        "ALCALO\u00cfDES",
+        "ERGOT",
+        "SEIGLE",
+        "VASOCONSTRICTEURS",
+        "IMMUNOSUPPRESSEURS",
+        "INHIBITEURS",
+        "HMG-COA",
+        "R\u00c9DUCTASE",
+        "STATINES",
+        "PIMOZIDE",
+        "VORICONAZOLE"
+    ],
+    "LEVOCARNITINE": [
+        "ANTIVITAMINES",
+        "K"
+    ],
+    "LEVODOPA": [
+        "BACLOFENE",
+        "FER",
+        "IMAO-B",
+        "METHYLDOPA",
+        "NEUROLEPTIQUES",
+        "ANTI\u00c9M\u00c9TIQUES",
+        "ANTIPSYCHOTIQUES",
+        "CLOZAPINE",
+        "RESERPINE",
+        "SPIRAMYCINE",
+        "TETRABENAZINE"
+    ],
+    "LEVOFLOXACINE": [
+        "SUBSTANCES",
+        "SUSCEPTIBLES",
+        "DONNER",
+        "TORSADES",
+        "POINTES"
+    ],
+    "LEVONORGESTREL": [
+        "INDUCTEURS",
+        "ENZYMATIQUES"
+    ],
+    "LIDOCAINE": [
+        "AMIODARONE",
+        "B\u00caTA-BLOQUANTS",
+        "ESMOLOL",
+        "Y",
+        "COMPRIS",
+        "COLLYRES",
+        "INSUFFISANCE",
+        "CARDIAQUE",
+        "CIMETIDINE",
+        "FLUVOXAMINE"
+    ],
+    "LINCOSANIDES": [
+        "CURARES"
+    ],
+    "LINEZOLIDE": [
+        "CLARITHROMYCINE",
+        "RIFAMPICINE"
+    ],
+    "LITHIUM": [
+        "ACETAZOLAMIDE",
+        "ANTAGONISTES",
+        "R\u00c9CEPTEURS",
+        "ANGIOTENSINE",
+        "ANTI-INFLAMMATOIRES",
+        "ST\u00c9RO\u00cfDIENS",
+        "CAFEINE",
+        "CALCITONINE",
+        "CARBAMAZEPINE",
+        "DIUR\u00c9TIQUES",
+        "ANSE",
+        "\u00c9PARGNEURS",
+        "POTASSIUM",
+        "SEULS",
+        "ASSOCI\u00c9S",
+        "THIAZIDIQUES",
+        "APPARENT\u00c9S",
+        "GLYCEROL",
+        "INHIBITEURS",
+        "ENZYME",
+        "CONVERSION",
+        "S\u00c9LECTIFS",
+        "RECAPTURE",
+        "S\u00c9ROTONINE",
+        "MANNITOL",
+        "METHYLDOPA",
+        "METRONIDAZOLE",
+        "NEUROLEPTIQUES",
+        "ORLISTAT",
+        "SODIUM",
+        "BICARBONATE",
+        "CHLORURE",
+        "THEOPHYLLINE",
+        "TOPIRAMATE"
+    ],
+    "LOMITAPIDE": [
+        "DILTIAZEM",
+        "INHIBITEURS",
+        "CYP3A4",
+        "MILLEPERTUIS"
+    ],
+    "LOMUSTINE": [
+        "CIMETIDINE"
+    ],
+    "LOSARTAN": [
+        "FLUCONAZOLE"
+    ],
+    "LUMEFANTRINE": [
+        "INHIBITEURS",
+        "CYP3A4"
+    ],
+    "LURASIDONE": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "MILLEPERTUIS",
+        "PAMPLEMOUSSE",
+        "JUS",
+        "FRUIT"
+    ],
+    "MACITENTAN": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "MILLEPERTUIS"
+    ],
+    "MACROLIDES (SAUF SPIRAMYCINE)": [
+        "ALCALO\u00cfDES",
+        "ERGOT",
+        "SEIGLE",
+        "DOPAMINERGIQUES",
+        "ANTIVITAMINES",
+        "K",
+        "COLCHICINE",
+        "DIGOXINE",
+        "DIHYDROERGOTAMINE",
+        "ERGOTAMINE"
+    ],
+    "MAGN\u00c9SIUM": [
+        "INHIBITEURS",
+        "D",
+        "INT\u00c9GRASE",
+        "ROXADUSTAT"
+    ],
+    "MANNITOL": [
+        "LITHIUM"
+    ],
+    "MARAVIROC": [
+        "FOSAMPRENAVIR",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "MILLEPERTUIS"
+    ],
+    "MARIBAVIR": [
+        "GANCICLOVIR",
+        "IMMUNOSUPPRESSEURS",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "VALGANCICLOVIR"
+    ],
+    "M\u00c9DICAMENTS \u00c0 L'ORIGINE D'ATTEINTES MUSCULAIRES": [
+        "AUTRES",
+        "M\u00c9DICAMENTS",
+        "ORIGINE",
+        "D",
+        "ATTEINTES",
+        "MUSCULAIRES"
+    ],
+    "M\u00c9DICAMENTS \u00c0 L'ORIGINE D'UN HYPOGONADISME MASCULIN": [
+        "SUBSTANCES",
+        "SUSCEPTIBLES",
+        "DONNER",
+        "TORSADES",
+        "POINTES"
+    ],
+    "M\u00c9DICAMENTS \u00c0 L'ORIGINE D'UN SYNDROME S\u00c9ROTONINERGIQUE": [
+        "AUTRES",
+        "M\u00c9DICAMENTS",
+        "ORIGINE",
+        "D",
+        "SYNDROME",
+        "S\u00c9ROTONINERGIQUE"
+    ],
+    "M\u00c9DICAMENTS \u00c0 L'ORIGINE D'UNE HYPOTENSION ORTHOSTATIQUE": [
+        "DAPOX\u00c9TINE",
+        "M\u00c9DICAMENTS",
+        "ABAISSANT",
+        "PRESSION",
+        "ART\u00c9RIELLE"
+    ],
+    "M\u00c9DICAMENTS \u00c0 RISQUE LORS DU SEVRAGE TABAGIQUE": [
+        "TRAITEMENTS",
+        "SUBSTITUTION",
+        "NICOTINIQUE"
+    ],
+    "M\u00c9DICAMENTS ABAISSANT LA PRESSION ART\u00c9RIELLE": [
+        "M\u00c9DICAMENTS",
+        "ORIGINE",
+        "D",
+        "HYPOTENSION",
+        "ORTHOSTATIQUE"
+    ],
+    "M\u00c9DICAMENTS ABAISSANT LE SEUIL \u00c9PILEPTOG\u00c8NE": [
+        "AUTRES",
+        "M\u00c9DICAMENTS",
+        "ABAISSANT",
+        "SEUIL",
+        "\u00c9PILEPTOG\u00c8NE"
+    ],
+    "M\u00c9DICAMENTS ATROPINIQUES": [
+        "AUTRES",
+        "M\u00c9DICAMENTS",
+        "ATROPINIQUES",
+        "ANTICHOLINEST\u00c9RASIQUES",
+        "MORPHINIQUES"
+    ],
+    "M\u00c9DICAMENTS M\u00c9TH\u00c9MOGLOBINISANTS": [
+        "AUTRES",
+        "M\u00c9DICAMENTS",
+        "M\u00c9TH\u00c9MOGLOBINISANTS"
+    ],
+    "M\u00c9DICAMENTS MIXTES ADR\u00c9NERGIQUES-S\u00c9ROTONINERGIQUES": [
+        "ADR\u00c9NALINE",
+        "BUCCO-DENTAIRE",
+        "SOUS-CUTAN\u00c9E",
+        "ANTIAGR\u00c9GANTS",
+        "PLAQUETTAIRES",
+        "ANTICOAGULANTS",
+        "ANTI-INFLAMMATOIRES",
+        "ST\u00c9RO\u00cfDIENS",
+        "COBIM\u00c9TINIB",
+        "IMAO",
+        "IRR\u00c9VERSIBLES",
+        "IMAO-A",
+        "R\u00c9VERSIBLES",
+        "Y",
+        "COMPRIS",
+        "OXAZOLIDINONES",
+        "BLEU",
+        "M\u00c9THYL\u00c8NE",
+        "ORLISTAT",
+        "SYMPATHOMIM\u00c9TIQUES",
+        "ALPHA",
+        "B\u00caTA",
+        "IM",
+        "IV"
+    ],
+    "M\u00c9DICAMENTS N\u00c9PHROTOXIQUES": [
+        "AUTRES",
+        "M\u00c9DICAMENTS",
+        "N\u00c9PHROTOXIQUES"
+    ],
+    "M\u00c9DICAMENTS OTOTOXIQUES": [
+        "AUTRES",
+        "M\u00c9DICAMENTS",
+        "OTOTOXIQUES"
+    ],
+    "M\u00c9DICAMENTS S\u00c9DATIFS": [
+        "AUTRES",
+        "M\u00c9DICAMENTS",
+        "S\u00c9DATIFS",
+        "ALCOOL",
+        "BOISSON",
+        "EXCIPIENT"
+    ],
+    "M\u00c9DICAMENTS, BRADYKININE ET ANGIO-\u0152D\u00c8ME": [
+        "AUTRES",
+        "MEDICAMENTS",
+        "RISQUE",
+        "D",
+        "ANGIO-\u0152D\u00c8ME"
+    ],
+    "MEFLOQUINE": [
+        "QUININE"
+    ],
+    "MEQUITAZINE": [
+        "BUPROPION",
+        "CINACALCET",
+        "DULOXETINE",
+        "FLUOXETINE",
+        "PAROXETINE",
+        "TERBINAFINE"
+    ],
+    "METFORMINE": [
+        "ALCOOL",
+        "BOISSON",
+        "EXCIPIENT",
+        "DIUR\u00c9TIQUES",
+        "ANSE",
+        "DOLUT\u00c9GRAVIR",
+        "PRODUITS",
+        "CONTRASTE",
+        "IOD\u00c9S"
+    ],
+    "METHADONE": [
+        "ANTITUSSIFS",
+        "MORPHINE-LIKE",
+        "MORPHINIQUES",
+        "VRAIS",
+        "APALUTAMIDE",
+        "CIMETIDINE",
+        "FLUVOXAMINE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "MILLEPERTUIS",
+        "AGONISTES-ANTAGONISTES",
+        "QUETIAPINE",
+        "SUBSTANCES",
+        "SUSCEPTIBLES",
+        "DONNER",
+        "TORSADES",
+        "POINTES",
+        "VORICONAZOLE"
+    ],
+    "METHENAMINE": [
+        "SULFAMETHIZOL"
+    ],
+    "METHOTREXATE": [
+        "ACIDE",
+        "ACETYLSALICYLIQUE",
+        "ACITRETINE",
+        "ANTI-INFLAMMATOIRES",
+        "ST\u00c9RO\u00cfDIENS",
+        "ANTIS\u00c9CR\u00c9TOIRES",
+        "INHIBITEURS",
+        "POMPE",
+        "PROTONS",
+        "CICLOSPORINE",
+        "CIPROFLOXACINE",
+        "P\u00c9NICILLINES",
+        "PONATINIB",
+        "PROBENECIDE",
+        "SULFAMIDES",
+        "ANTIBACT\u00c9RIENS",
+        "T\u00c9DIZOLIDE",
+        "TRIMETHOPRIME"
+    ],
+    "METHYLDOPA": [
+        "FER",
+        "LEVODOPA",
+        "LITHIUM"
+    ],
+    "M\u00c9THYLERGOM\u00c9TRINE": [
+        "SULPROSTONE"
+    ],
+    "METHYLPREDNISOLONE": [
+        "ANTIVITAMINES",
+        "K",
+        "CICLOSPORINE"
+    ],
+    "METOPROLOL": [
+        "ABIRATERONE",
+        "BUPROPION",
+        "CIMETIDINE",
+        "CINACALCET",
+        "DARIFENACINE",
+        "DULOXETINE",
+        "FLUOXETINE",
+        "MIRAB\u00c9GRON",
+        "PAROXETINE",
+        "PH\u00c9NOBARBITAL",
+        "EXTRAPOLATION",
+        "PRIMIDONE",
+        "RIFAMPICINE",
+        "ROLAPITANT",
+        "TERBINAFINE"
+    ],
+    "METRONIDAZOLE": [
+        "BUSULFAN",
+        "DISULFIRAME",
+        "FLUOROURACILE",
+        "EXTRAPOLATION",
+        "AUTRES",
+        "FLUOROPYRIMIDINES",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "LITHIUM",
+        "RIFAMPICINE"
+    ],
+    "METYRAPONE": [
+        "PH\u00c9NYTO\u00cfNE",
+        "EXTRAPOLATION",
+        "FOSPH\u00c9NYTO\u00cfNE"
+    ],
+    "MEXILETINE": [
+        "B\u00caTA-BLOQUANTS",
+        "INSUFFISANCE",
+        "CARDIAQUE",
+        "CAFEINE",
+        "FLUVOXAMINE",
+        "PH\u00c9NYTO\u00cfNE",
+        "EXTRAPOLATION",
+        "FOSPH\u00c9NYTO\u00cfNE",
+        "TH\u00c9OPHYLLINE",
+        "AMINOPHYLLINE"
+    ],
+    "MIANSERINE": [
+        "INDUCTEURS",
+        "ENZYMATIQUES"
+    ],
+    "MICONAZOLE": [
+        "ANTIVITAMINES",
+        "K",
+        "PH\u00c9NYTO\u00cfNE",
+        "EXTRAPOLATION",
+        "FOSPH\u00c9NYTO\u00cfNE",
+        "SULFAMIDES",
+        "HYPOGLYC\u00c9MIANTS"
+    ],
+    "MIDAZOLAM": [
+        "DILTIAZEM",
+        "FLUCONAZOLE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "MILLEPERTUIS",
+        "OMBITASVIR",
+        "PARITAPR\u00c9VIR",
+        "RIFAMPICINE",
+        "ROXITHROMYCINE",
+        "STIRIPENTOL",
+        "VERAPAMIL"
+    ],
+    "MIDECAMYCINE": [
+        "CICLOSPORINE"
+    ],
+    "MIDODRINE": [
+        "DIGOXINE",
+        "IMAO",
+        "IRR\u00c9VERSIBLES"
+    ],
+    "MIDOSTAURINE": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "MILLEPERTUIS"
+    ],
+    "MIFAMURTIDE": [
+        "ANTI-INFLAMMATOIRES",
+        "ST\u00c9RO\u00cfDIENS",
+        "CICLOSPORINE",
+        "CORTICO\u00cfDES",
+        "TACROLIMUS"
+    ],
+    "MILLEPERTUIS": [
+        "ANTICONVULSIVANTS",
+        "M\u00c9TABOLIS\u00c9S",
+        "ANTIS\u00c9CR\u00c9TOIRES",
+        "INHIBITEURS",
+        "POMPE",
+        "PROTONS",
+        "ANTIVITAMINES",
+        "K",
+        "B\u00c9DAQUILINE",
+        "BICT\u00c9GRAVIR",
+        "BUSPIRONE",
+        "CANNABIDIOL",
+        "CARBAMAZEPINE",
+        "CLOZAPINE",
+        "COBICISTAT",
+        "CYCLOPHOSPHAMIDE",
+        "CYPROTERONE",
+        "DASABUVIR",
+        "DIGOXINE",
+        "DOCETAXEL",
+        "DOLUT\u00c9GRAVIR",
+        "DRONEDARONE",
+        "EFAVIRENZ",
+        "ESTROPROGESTATIFS",
+        "CONTRACEPTIFS",
+        "ETOPOSIDE",
+        "FEXOFENADINE",
+        "FOSTEMSAVIR",
+        "GILT\u00c9RITINIB",
+        "GL\u00c9CAPR\u00c9VIR",
+        "PIBRENTASVIR",
+        "HORMONES",
+        "THYRO\u00cfDIENNES",
+        "ID\u00c9LALISIB",
+        "IMAO",
+        "IRR\u00c9VERSIBLES",
+        "IMAO-A",
+        "R\u00c9VERSIBLES",
+        "Y",
+        "COMPRIS",
+        "OXAZOLIDINONES",
+        "BLEU",
+        "M\u00c9THYL\u00c8NE",
+        "IMMUNOSUPPRESSEURS",
+        "5-ALPHA",
+        "REDUCTASE",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "TYROSINE",
+        "KINASES",
+        "S\u00c9LECTIFS",
+        "RECAPTURE",
+        "S\u00c9ROTONINE",
+        "IRINOTECAN",
+        "ISAVUCONAZOLE",
+        "ITRACONAZOLE",
+        "IVABRADINE",
+        "L\u00c9DIPASVIR",
+        "L\u00c9NACAPAVIR",
+        "LOMITAPIDE",
+        "LURASIDONE",
+        "MACITENTAN",
+        "MARAVIROC",
+        "METHADONE",
+        "MIDAZOLAM",
+        "MIDOSTAURINE",
+        "NEVIRAPINE",
+        "NINT\u00c9DANIB",
+        "OLAPARIB",
+        "OXYCODONE",
+        "PACLITAXEL",
+        "PROGESTATIFS",
+        "PROPAFENONE",
+        "QUETIAPINE",
+        "R\u00c9GORAF\u00c9NIB",
+        "RILPIVIRINE",
+        "ROLAPITANT",
+        "SIMVASTATINE",
+        "SOFOSBUVIR",
+        "TAMOXIFENE",
+        "TELITHROMYCINE",
+        "TH\u00c9OPHYLLINE",
+        "EXTRAPOLATION",
+        "AMINOPHYLLINE",
+        "TICAGRELOR",
+        "ULIPRISTAL",
+        "VELPATASVIR",
+        "V\u00c9N\u00c9TOCLAX",
+        "VERAPAMIL",
+        "VINCA-ALCALO\u00cfDES",
+        "CYTOTOXIQUES",
+        "VISMOD\u00c9GIB",
+        "VORICONAZOLE"
+    ],
+    "MIN\u00c9RALOCORTICO\u00cfDES": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "RIFAMPICINE"
+    ],
+    "MIRAB\u00c9GRON": [
+        "METOPROLOL",
+        "PROPAFENONE"
+    ],
+    "MITOMYCINE C": [
+        "VINCA-ALCALO\u00cfDES",
+        "CYTOTOXIQUES"
+    ],
+    "MITOTANE": [
+        "DASABUVIR",
+        "FOSTEMSAVIR",
+        "SPIRONOLACTONE"
+    ],
+    "MOCLOBEMIDE": [
+        "CIMETIDINE"
+    ],
+    "MODAFINIL": [
+        "CICLOSPORINE",
+        "ESTROPROGESTATIFS",
+        "CONTRACEPTIFS"
+    ],
+    "MONTELUKAST": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "RIFAMPICINE"
+    ],
+    "MORPHINE": [
+        "RIFAMPICINE"
+    ],
+    "MORPHINIQUES": [
+        "BARBITURIQUES",
+        "BENZODIAZ\u00c9PINES",
+        "APPARENT\u00c9S",
+        "M\u00c9DICAMENTS",
+        "ATROPINIQUES",
+        "OXYBATE",
+        "SODIUM"
+    ],
+    "MORPHINIQUES AGONISTES-ANTAGONISTES": [
+        "ANALG\u00c9SIQUES",
+        "MORPHINIQUES",
+        "PALIER",
+        "ANTITUSSIFS",
+        "VRAIS",
+        "METHADONE",
+        "ANTAGONISTES",
+        "PARTIELS"
+    ],
+    "MORPHINIQUES ANTAGONISTES PARTIELS": [
+        "ANALG\u00c9SIQUES",
+        "MORPHINIQUES",
+        "PALIER",
+        "AGONISTES-ANTAGONISTES",
+        "TRAITEMENT",
+        "SUBSTITUTION"
+    ],
+    "MORPHINIQUES EN TRAITEMENT DE SUBSTITUTION": [
+        "MORPHINIQUES",
+        "ANTAGONISTES",
+        "PARTIELS"
+    ],
+    "MYCOPHENOLATE MOFETIL": [
+        "ANTIS\u00c9CR\u00c9TOIRES",
+        "INHIBITEURS",
+        "POMPE",
+        "PROTONS",
+        "FLUOROQUINOLONES",
+        "P\u00c9NICILLINES",
+        "A",
+        "VACCINS",
+        "VIVANTS",
+        "ATT\u00c9NU\u00c9S"
+    ],
+    "MYCOPHENOLATE SODIQUE": [
+        "VACCINS",
+        "VIVANTS",
+        "ATT\u00c9NU\u00c9S"
+    ],
+    "NALOXEGOL": [
+        "DILTIAZEM",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "PAMPLEMOUSSE",
+        "JUS",
+        "FRUIT",
+        "VERAPAMIL"
+    ],
+    "NEBIVOLOL": [
+        "FLUOXETINE",
+        "PAROXETINE"
+    ],
+    "N\u00c9TUPITANT": [
+        "INDUCTEURS",
+        "ENZYMATIQUES"
+    ],
+    "NEUROLEPTIQUES": [
+        "B\u00caTA-BLOQUANTS",
+        "INSUFFISANCE",
+        "CARDIAQUE",
+        "LITHIUM",
+        "ORLISTAT"
+    ],
+    "NEUROLEPTIQUES ANTI\u00c9M\u00c9TIQUES": [
+        "DOPAMINERGIQUES",
+        "LEVODOPA"
+    ],
+    "NEUROLEPTIQUES ANTIPSYCHOTIQUES (SAUF CLOZAPINE)": [
+        "ANTIPARKINSONIENS",
+        "DOPAMINERGIQUES",
+        "ARIPIPRAZOLE",
+        "PARKINSON",
+        "LEVODOPA"
+    ],
+    "NEUROLEPTIQUES SUSCEPTIBLES DE DONNER DES TORSADES DE POINTES": [
+        "SUBSTANCES",
+        "SUSCEPTIBLES",
+        "DONNER",
+        "TORSADES",
+        "POINTES"
+    ],
+    "NEVIRAPINE": [
+        "ANTIVITAMINES",
+        "K",
+        "ATAZANAVIR",
+        "FLUCONAZOLE",
+        "FOSAMPRENAVIR",
+        "KETOCONAZOLE",
+        "MILLEPERTUIS",
+        "RIFAMPICINE",
+        "VORICONAZOLE"
+    ],
+    "NICARDIPINE": [
+        "IMMUNOSUPPRESSEURS"
+    ],
+    "NICORANDIL": [
+        "ACIDE",
+        "ACETYLSALICYLIQUE",
+        "ANTI-INFLAMMATOIRES",
+        "ST\u00c9RO\u00cfDIENS"
+    ],
+    "NIFEDIPINE": [
+        "CICLOSPORINE",
+        "CIMETIDINE",
+        "DILTIAZEM"
+    ],
+    "NIMODIPINE": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "RIFAMPICINE",
+        "VALPRO\u00cfQUE",
+        "ACIDE",
+        "EXTRAPOLATION",
+        "VALPROMIDE"
+    ],
+    "NINT\u00c9DANIB": [
+        "AMIODARONE",
+        "CARBAMAZEPINE",
+        "CICLOSPORINE",
+        "ERYTHROMYCINE",
+        "INHIBITEURS",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "ITRACONAZOLE",
+        "KETOCONAZOLE",
+        "MILLEPERTUIS",
+        "PH\u00c9NYTO\u00cfNE",
+        "EXTRAPOLATION",
+        "FOSPH\u00c9NYTO\u00cfNE",
+        "RIFAMPICINE",
+        "VERAPAMIL"
+    ],
+    "NORFLOXACINE": [
+        "CAFEINE",
+        "CALCIUM",
+        "SUBSTANCES",
+        "SUSCEPTIBLES",
+        "DONNER",
+        "TORSADES",
+        "POINTES",
+        "TH\u00c9OPHYLLINE",
+        "EXTRAPOLATION",
+        "AMINOPHYLLINE"
+    ],
+    "NORTRIPTYLINE": [
+        "BUPROPION"
+    ],
+    "NOSCAPINE": [
+        "ANTIVITAMINES",
+        "K"
+    ],
+    "OLANZAPINE": [
+        "CARBAMAZEPINE",
+        "FLUVOXAMINE"
+    ],
+    "OLAPARIB": [
+        "AMIODARONE",
+        "APALUTAMIDE",
+        "CYTOTOXIQUES",
+        "DILTIAZEM",
+        "FLUCONAZOLE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "MILLEPERTUIS",
+        "PAMPLEMOUSSE",
+        "JUS",
+        "FRUIT",
+        "VERAPAMIL"
+    ],
+    "OMBITASVIR + PARITAPR\u00c9VIR": [
+        "ACIDE",
+        "FUSIDIQUE",
+        "ALCALO\u00cfDES",
+        "ERGOT",
+        "SEIGLE",
+        "VASOCONSTRICTEURS",
+        "ALFUZOSINE",
+        "AMIODARONE",
+        "ATORVASTATINE",
+        "COLCHICINE",
+        "DISOPYRAMIDE",
+        "ETHINYLESTRADIOL",
+        "EVEROLIMUS",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "MIDAZOLAM",
+        "PIMOZIDE",
+        "QUETIAPINE",
+        "QUINIDINE",
+        "SALMETEROL",
+        "SILDENAFIL",
+        "SIMVASTATINE",
+        "SIROLIMUS",
+        "TACROLIMUS",
+        "TICAGRELOR"
+    ],
+    "OMEPRAZOLE": [
+        "ANAGRELIDE",
+        "APALUTAMIDE",
+        "DIGOXINE",
+        "ESCITALOPRAM",
+        "TACROLIMUS"
+    ],
+    "ONDANSETRON": [
+        "SUBSTANCES",
+        "SUSCEPTIBLES",
+        "DONNER",
+        "TORSADES",
+        "POINTES",
+        "TRAMADOL"
+    ],
+    "OR": [
+        "INHIBITEURS",
+        "ENZYME",
+        "CONVERSION"
+    ],
+    "ORGANOPLATINES": [
+        "AMINOSIDES",
+        "DIUR\u00c9TIQUES",
+        "ANSE"
+    ],
+    "ORLISTAT": [
+        "AMIODARONE",
+        "ANTID\u00c9PRESSEURS",
+        "IMIPRAMINIQUES",
+        "ANTIVITAMINES",
+        "K",
+        "CICLOSPORINE",
+        "HORMONES",
+        "THYRO\u00cfDIENNES",
+        "INHIBITEURS",
+        "S\u00c9LECTIFS",
+        "RECAPTURE",
+        "S\u00c9ROTONINE",
+        "LITHIUM",
+        "M\u00c9DICAMENTS",
+        "MIXTES",
+        "ADR\u00c9NERGIQUES-S\u00c9ROTONINERGIQUES",
+        "NEUROLEPTIQUES",
+        "VITAMINE",
+        "D"
+    ],
+    "ORNIDAZOLE": [
+        "FLUOROURACILE",
+        "EXTRAPOLATION",
+        "AUTRES",
+        "FLUOROPYRIMIDINES"
+    ],
+    "OXCARBAZEPINE": [
+        "ESTROG\u00c8NES",
+        "CONTRACEPTIFS",
+        "LAMOTRIGINE",
+        "L\u00c9NACAPAVIR",
+        "P\u00c9RAMPANEL",
+        "TOPIRAMATE",
+        "VELPATASVIR"
+    ],
+    "OXPRENOLOL": [
+        "ERGOTAMINE"
+    ],
+    "OXYBATE DE SODIUM": [
+        "BARBITURIQUES",
+        "MORPHINIQUES"
+    ],
+    "OXYCODONE": [
+        "FLUCONAZOLE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "MILLEPERTUIS"
+    ],
+    "OZANIMOD": [
+        "BRADYCARDISANTS",
+        "CICLOSPORINE",
+        "CLOPIDOGREL",
+        "ELTROMBOPAG",
+        "GEMFIBROZIL",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "RIFAMPICINE"
+    ],
+    "P A S SODIQUE": [
+        "TENOFOVIR",
+        "ALAF\u00c9NAMIDE",
+        "DISOPROXIL"
+    ],
+    "PACLITAXEL": [
+        "AMIODARONE",
+        "CLOPIDOGREL",
+        "DEFERASIROX",
+        "GEMFIBROZIL",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "MILLEPERTUIS",
+        "TRIMETHOPRIME"
+    ],
+    "PAMPLEMOUSSE (JUS ET FRUIT)": [
+        "ATORVASTATINE",
+        "AVANAFIL",
+        "BUSPIRONE",
+        "CARBAMAZEPINE",
+        "DRONEDARONE",
+        "HALOFANTRINE",
+        "IMMUNOSUPPRESSEURS",
+        "IVABRADINE",
+        "IVACAFTOR",
+        "SEUL",
+        "ASSOCI\u00c9",
+        "LERCANIDIPINE",
+        "LURASIDONE",
+        "NALOXEGOL",
+        "OLAPARIB",
+        "R\u00c9GORAF\u00c9NIB",
+        "SERTRALINE",
+        "SIMVASTATINE",
+        "TICAGRELOR",
+        "TOLVAPTAN",
+        "VARDENAFIL",
+        "V\u00c9N\u00c9TOCLAX",
+        "VERAPAMIL"
+    ],
+    "PANOBINOSTAT": [
+        "INHIBITEURS",
+        "CYP3A4"
+    ],
+    "PARACETAMOL": [
+        "ANTIVITAMINES",
+        "K",
+        "FLUCLOXACILLINE"
+    ],
+    "PAROXETINE": [
+        "CARBAMAZEPINE",
+        "CODEINE",
+        "MEQUITAZINE",
+        "METOPROLOL",
+        "NEBIVOLOL",
+        "PIMOZIDE",
+        "RISPERIDONE",
+        "TAMOXIFENE",
+        "TETRABENAZINE",
+        "TRAMADOL"
+    ],
+    "PEFLOXACINE": [
+        "TH\u00c9OPHYLLINE",
+        "EXTRAPOLATION",
+        "AMINOPHYLLINE"
+    ],
+    "PEG-INTERFERON ALFA-2A": [
+        "TELBIVUDINE"
+    ],
+    "PEMETREXED": [
+        "ACIDE",
+        "ACETYLSALICYLIQUE",
+        "ANTI-INFLAMMATOIRES",
+        "ST\u00c9RO\u00cfDIENS"
+    ],
+    "P\u00c9NEMS": [
+        "VALPRO\u00cfQUE",
+        "ACIDE",
+        "EXTRAPOLATION",
+        "VALPROMIDE"
+    ],
+    "PENICILLAMINE": [
+        "FER"
+    ],
+    "P\u00c9NICILLINES": [
+        "METHOTREXATE"
+    ],
+    "P\u00c9NICILLINES A": [
+        "ALLOPURINOL",
+        "MYCOPHENOLATE",
+        "MOFETIL"
+    ],
+    "PENTAMIDINE": [
+        "DIDANOSINE",
+        "FOSCARNET",
+        "STAVUDINE"
+    ],
+    "PENTOSTATINE": [
+        "CYCLOPHOSPHAMIDE",
+        "FLUDARABINE"
+    ],
+    "PENTOXIFYLLINE": [
+        "ANTIVITAMINES",
+        "K",
+        "COBIM\u00c9TINIB",
+        "TH\u00c9OPHYLLINE",
+        "EXTRAPOLATION",
+        "AMINOPHYLLINE"
+    ],
+    "P\u00c9RAMPANEL": [
+        "CYPROTERONE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "OXCARBAZEPINE",
+        "PROGESTATIFS",
+        "CONTRACEPTIFS",
+        "RIFAMPICINE"
+    ],
+    "PETHIDINE": [
+        "IMAO",
+        "IRR\u00c9VERSIBLES",
+        "IMAO-A",
+        "R\u00c9VERSIBLES",
+        "Y",
+        "COMPRIS",
+        "OXAZOLIDINONES",
+        "BLEU",
+        "M\u00c9THYL\u00c8NE",
+        "IMAO-B"
+    ],
+    "PH\u00c9NOBARBITAL (ET, PAR EXTRAPOLATION, PRIMIDONE)": [
+        "ACIDE",
+        "CHOLIQUE",
+        "CARBAMAZEPINE",
+        "FELBAMATE",
+        "FOLATES",
+        "IFOSFAMIDE",
+        "METOPROLOL",
+        "PH\u00c9NYTO\u00cfNE",
+        "EXTRAPOLATION",
+        "FOSPH\u00c9NYTO\u00cfNE",
+        "PROPRANOLOL",
+        "VALPRO\u00cfQUE",
+        "VALPROMIDE"
+    ],
+    "PH\u00c9NYTO\u00cfNE (ET, PAR EXTRAPOLATION, FOSPH\u00c9NYTO\u00cfNE)": [
+        "AMIODARONE",
+        "CARBAMAZEPINE",
+        "CIMETIDINE",
+        "CIPROFLOXACINE",
+        "CLOPIDOGREL",
+        "CYTOTOXIQUES",
+        "DIAZEPAM",
+        "DISULFIRAME",
+        "FELBAMATE",
+        "FLUCONAZOLE",
+        "FLUOXETINE",
+        "FLUVOXAMINE",
+        "FOLATES",
+        "FUROSEMIDE",
+        "ISONIAZIDE",
+        "METYRAPONE",
+        "MEXILETINE",
+        "MICONAZOLE",
+        "NINT\u00c9DANIB",
+        "PH\u00c9NOBARBITAL",
+        "EXTRAPOLATION",
+        "PRIMIDONE",
+        "SUCRALFATE",
+        "SULFAFURAZOL",
+        "SULFAMETHIZOL",
+        "SULFAMETHOXAZOLE",
+        "TICLOPIDINE",
+        "VALPRO\u00cfQUE",
+        "ACIDE",
+        "VALPROMIDE"
+    ],
+    "PILOCARPINE": [
+        "ANTICHOLINEST\u00c9RASIQUES"
+    ],
+    "PIMOZIDE": [
+        "APALUTAMIDE",
+        "APREPITANT",
+        "DALFOPRISTINE",
+        "DILTIAZEM",
+        "EFAVIRENZ",
+        "FLUCONAZOLE",
+        "FLUOXETINE",
+        "INHIBITEURS",
+        "CYP3A4",
+        "JOSAMYCINE",
+        "L\u00c9TERMOVIR",
+        "OMBITASVIR",
+        "PARITAPR\u00c9VIR",
+        "PAROXETINE",
+        "QUINUPRISTINE",
+        "SERTRALINE",
+        "STIRIPENTOL",
+        "TRICLABENDAZOLE",
+        "VERAPAMIL"
+    ],
+    "PIP\u00c9RACILLINE/TAZOBACTAM": [
+        "VANCOMYCINE"
+    ],
+    "PIRFENIDONE": [
+        "FLUVOXAMINE"
+    ],
+    "PITAVASTATINE": [
+        "CICLOSPORINE"
+    ],
+    "POLYMYXINE B": [
+        "AMINOSIDES",
+        "CURARES"
+    ],
+    "POLYSTYR\u00c8NE SULFONATE DE CALCIUM": [
+        "SORBITOL",
+        "TOPIQUES",
+        "GASTRO-INTESTINAUX",
+        "ANTIACIDES",
+        "ADSORBANTS"
+    ],
+    "POLYSTYR\u00c8NE SULFONATE DE SODIUM": [
+        "SORBITOL",
+        "TOPIQUES",
+        "GASTRO-INTESTINAUX",
+        "ANTIACIDES",
+        "ADSORBANTS"
+    ],
+    "PONATINIB": [
+        "ATORVASTATINE",
+        "COLCHICINE",
+        "DABIGATRAN",
+        "DIGOXINE",
+        "METHOTREXATE",
+        "PRAVASTATINE",
+        "ROSUVASTATINE",
+        "SIMVASTATINE",
+        "SULFASALAZINE"
+    ],
+    "PON\u00c9SIMOD": [
+        "BRADYCARDISANTS"
+    ],
+    "POSACONAZOLE": [
+        "ANTIS\u00c9CR\u00c9TOIRES",
+        "ANTIHISTAMINIQUES",
+        "H2",
+        "INHIBITEURS",
+        "POMPE",
+        "PROTONS",
+        "ATAZANAVIR",
+        "ATORVASTATINE",
+        "DIGOXINE",
+        "IMMUNOSUPPRESSEURS",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "RIFABUTINE",
+        "RIFAMPICINE"
+    ],
+    "POTASSIUM": [
+        "ANTAGONISTES",
+        "R\u00c9CEPTEURS",
+        "ANGIOTENSINE",
+        "CICLOSPORINE",
+        "DIUR\u00c9TIQUES",
+        "\u00c9PARGNEURS",
+        "POTASSIUM",
+        "SEULS",
+        "ASSOCI\u00c9S",
+        "INHIBITEURS",
+        "ENZYME",
+        "CONVERSION",
+        "TACROLIMUS"
+    ],
+    "POVIDONE IOD\u00c9E": [
+        "ANTISEPTIQUES",
+        "MERCURIELS"
+    ],
+    "PRAVASTATINE": [
+        "CICLOSPORINE",
+        "CLARITHROMYCINE",
+        "ERYTHROMYCINE",
+        "PONATINIB"
+    ],
+    "PRAZIQUANTEL": [
+        "DEXAMETHASONE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "RIFAMPICINE"
+    ],
+    "PREDNISOLONE": [
+        "CICLOSPORINE"
+    ],
+    "PR\u00c9SERVATIFS EN LATEX": [
+        "HUILES",
+        "MIN\u00c9RALES"
+    ],
+    "PRIMIDONE": [
+        "AFATINIB"
+    ],
+    "PRISTINAMYCINE": [
+        "ANTIVITAMINES",
+        "K",
+        "COLCHICINE",
+        "IMMUNOSUPPRESSEURS"
+    ],
+    "PROBENECIDE": [
+        "ACIDE",
+        "ACETYLSALICYLIQUE",
+        "DIPROPHYLLINE",
+        "METHOTREXATE"
+    ],
+    "PROCARBAZINE": [
+        "INDUCTEURS",
+        "ENZYMATIQUES"
+    ],
+    "PRODUITS DE CONTRASTE IOD\u00c9S": [
+        "ALDESLEUKINE",
+        "DIUR\u00c9TIQUES",
+        "METFORMINE"
+    ],
+    "PROGESTATIFS CONTRACEPTIFS": [
+        "APREPITANT",
+        "BOSENTAN",
+        "GRISEOFULVINE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "MILLEPERTUIS",
+        "P\u00c9RAMPANEL",
+        "ULIPRISTAL"
+    ],
+    "PROGESTATIFS NON CONTRACEPTIFS, ASSOCI\u00c9S OU NON \u00c0 UN ESTROG\u00c8NE": [
+        "BOSENTAN",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "ULIPRISTAL"
+    ],
+    "PROGUANIL": [
+        "ANTIVITAMINES",
+        "K",
+        "HORMONES",
+        "THYRO\u00cfDIENNES"
+    ],
+    "PROPAFENONE": [
+        "ABIRATERONE",
+        "B\u00caTA-BLOQUANTS",
+        "ESMOLOL",
+        "Y",
+        "COMPRIS",
+        "COLLYRES",
+        "BUPROPION",
+        "CINACALCET",
+        "DARIFENACINE",
+        "DIGOXINE",
+        "DULOXETINE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "MILLEPERTUIS",
+        "MIRAB\u00c9GRON",
+        "RIFAMPICINE",
+        "ROLAPITANT",
+        "TERBINAFINE",
+        "THEOPHYLLINE"
+    ],
+    "PROPRANOLOL": [
+        "ERGOTAMINE",
+        "FLUVOXAMINE",
+        "PH\u00c9NOBARBITAL",
+        "EXTRAPOLATION",
+        "PRIMIDONE",
+        "RIFAMPICINE"
+    ],
+    "PYRAZINAMIDE": [
+        "ISONIAZIDE"
+    ],
+    "PYRIMETHAMINE": [
+        "TRIMETHOPRIME"
+    ],
+    "QUETIAPINE": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "METHADONE",
+        "MILLEPERTUIS",
+        "OMBITASVIR",
+        "PARITAPR\u00c9VIR",
+        "RIFAMPICINE"
+    ],
+    "QUINIDINE": [
+        "ALCALINISANTS",
+        "URINAIRES",
+        "COBICISTAT",
+        "CODEINE",
+        "DABIGATRAN",
+        "DIGOXINE",
+        "DRONEDARONE",
+        "INHIBITEURS",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "ITRACONAZOLE",
+        "OMBITASVIR",
+        "PARITAPR\u00c9VIR",
+        "STIRIPENTOL",
+        "TALAZOPARIB",
+        "TAMOXIFENE",
+        "TETRABENAZINE",
+        "TRAMADOL",
+        "TRICLABENDAZOLE",
+        "VERAPAMIL",
+        "VORICONAZOLE"
+    ],
+    "QUININE": [
+        "DIGOXINE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "MEFLOQUINE",
+        "RIFAMPICINE"
+    ],
+    "QUINUPRISTINE": [
+        "DIHYDROERGOTAMINE",
+        "ERGOTAMINE",
+        "IMMUNOSUPPRESSEURS",
+        "PIMOZIDE"
+    ],
+    "RALT\u00c9GRAVIR": [
+        "RIFAMPICINE"
+    ],
+    "RANOLAZINE": [
+        "ATORVASTATINE",
+        "DIGOXINE",
+        "IMMUNOSUPPRESSEURS",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "RIFAMPICINE",
+        "SIMVASTATINE"
+    ],
+    "R\u00c9GORAF\u00c9NIB": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "MILLEPERTUIS",
+        "PAMPLEMOUSSE",
+        "JUS",
+        "FRUIT"
+    ],
+    "REPAGLINIDE": [
+        "ANALOGUES",
+        "SOMATOSTATINE",
+        "CICLOSPORINE",
+        "CLARITHROMYCINE",
+        "CLOPIDOGREL",
+        "DEFERASIROX",
+        "GEMFIBROZIL",
+        "SELPERCATINIB",
+        "TRIMETHOPRIME"
+    ],
+    "RESERPINE": [
+        "IMAO",
+        "IRR\u00c9VERSIBLES",
+        "LEVODOPA"
+    ],
+    "R\u00c9SINES CH\u00c9LATRICES": [
+        "M\u00c9DICAMENTS",
+        "ADMINISTR\u00c9S",
+        "ORALE",
+        "HORMONES",
+        "THYRO\u00cfDIENNES",
+        "ROXADUSTAT"
+    ],
+    "R\u00c9TINO\u00cfDES": [
+        "AUTRES",
+        "R\u00c9TINO\u00cfDES",
+        "CYCLINES",
+        "VITAMINE",
+        "A"
+    ],
+    "RIBAVIRINE": [
+        "ANTIPURINES",
+        "DIDANOSINE",
+        "STAVUDINE",
+        "ZIDOVUDINE"
+    ],
+    "RIFABUTINE": [
+        "ATOVAQUONE",
+        "CLARITHROMYCINE",
+        "COBICISTAT",
+        "EFAVIRENZ",
+        "ELVIT\u00c9GRAVIR",
+        "FLUCONAZOLE",
+        "HORMONES",
+        "THYRO\u00cfDIENNES",
+        "INHIBITEURS",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "L\u00c9DIPASVIR",
+        "POSACONAZOLE",
+        "VELPATASVIR",
+        "VORICONAZOLE"
+    ],
+    "RIFAMPICINE": [
+        "ABIRATERONE",
+        "AFATINIB",
+        "ALBENDAZOLE",
+        "ANTAGONISTES",
+        "CANAUX",
+        "CALCIQUES",
+        "ANTIARYTHMIQUES",
+        "CLASSE",
+        "IA",
+        "ANTIVITAMINES",
+        "K",
+        "APIXABAN",
+        "APREPITANT",
+        "ATORVASTATINE",
+        "ATOVAQUONE",
+        "BICT\u00c9GRAVIR",
+        "BOSENTAN",
+        "BUSPIRONE",
+        "CANNABIDIOL",
+        "CARBAMAZEPINE",
+        "CARVEDILOL",
+        "CLARITHROMYCINE",
+        "CLOZAPINE",
+        "COBICISTAT",
+        "DABIGATRAN",
+        "DAROLUTAMIDE",
+        "DEFERASIROX",
+        "D\u00c9LAMANID",
+        "DIGOXINE",
+        "DOXYCYCLINE",
+        "DRONEDARONE",
+        "EFAVIRENZ",
+        "ESZOPICLONE",
+        "EXEMESTANE",
+        "FENTANYL",
+        "FLUCONAZOLE",
+        "HALOPERIDOL",
+        "HORMONES",
+        "THYRO\u00cfDIENNES",
+        "ID\u00c9LALISIB",
+        "INHIBITEURS",
+        "5-ALPHA",
+        "REDUCTASE",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "TYROSINE",
+        "KINASES",
+        "M\u00c9TABOLIS\u00c9S",
+        "ISONIAZIDE",
+        "IVABRADINE",
+        "KETOCONAZOLE",
+        "L\u00c9DIPASVIR",
+        "L\u00c9NACAPAVIR",
+        "LINEZOLIDE",
+        "METOPROLOL",
+        "METRONIDAZOLE",
+        "MIDAZOLAM",
+        "MIN\u00c9RALOCORTICO\u00cfDES",
+        "MONTELUKAST",
+        "MORPHINE",
+        "NEVIRAPINE",
+        "NIMODIPINE",
+        "NINT\u00c9DANIB",
+        "OZANIMOD",
+        "P\u00c9RAMPANEL",
+        "POSACONAZOLE",
+        "PRAZIQUANTEL",
+        "PROPAFENONE",
+        "PROPRANOLOL",
+        "QUETIAPINE",
+        "QUININE",
+        "RALT\u00c9GRAVIR",
+        "RANOLAZINE",
+        "RIVAROXABAN",
+        "SACITUZUMAB",
+        "SIMVASTATINE",
+        "SOTORASIB",
+        "TELITHROMYCINE",
+        "T\u00c9NOFOVIR",
+        "ALAF\u00c9NAMIDE",
+        "TERBINAFINE",
+        "TH\u00c9OPHYLLINE",
+        "EXTRAPOLATION",
+        "AMINOPHYLLINE",
+        "TIAGABINE",
+        "TICAGRELOR",
+        "ULIPRISTAL",
+        "VALPRO\u00cfQUE",
+        "ACIDE",
+        "VALPROMIDE",
+        "VELPATASVIR",
+        "VITAMINE",
+        "D",
+        "VORICONAZOLE",
+        "VOXELOTOR",
+        "ZIDOVUDINE",
+        "ZOLPIDEM",
+        "ZOPICLONE"
+    ],
+    "RILPIVIRINE": [
+        "ANTIS\u00c9CR\u00c9TOIRES",
+        "ANTIHISTAMINIQUES",
+        "H2",
+        "INHIBITEURS",
+        "POMPE",
+        "PROTONS",
+        "DEXAMETHASONE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "MILLEPERTUIS"
+    ],
+    "RIOCIGUAT": [
+        "D\u00c9RIV\u00c9S",
+        "NITR\u00c9S",
+        "APPARENT\u00c9S",
+        "INHIBITEURS",
+        "PHOSPHODIESTERASE",
+        "TYPE",
+        "5",
+        "CYP3A4"
+    ],
+    "RISPERIDONE": [
+        "CARBAMAZEPINE",
+        "FLUOXETINE",
+        "PAROXETINE"
+    ],
+    "RITONAVIR": [
+        "CORTICO\u00cfDES",
+        "INTRA-ARTICULAIRE",
+        "GLUCOCORTICO\u00cfDES",
+        "M\u00c9TABOLIS\u00c9S"
+    ],
+    "RIVAROXABAN": [
+        "FLUCONAZOLE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "RIFAMPICINE"
+    ],
+    "ROLAPITANT": [
+        "COLCHICINE",
+        "DABIGATRAN",
+        "DIGOXINE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "METOPROLOL",
+        "MILLEPERTUIS",
+        "PROPAFENONE",
+        "ROSUVASTATINE",
+        "TAMOXIFENE"
+    ],
+    "ROPINIROLE": [
+        "ANTIVITAMINES",
+        "K",
+        "CIPROFLOXACINE",
+        "ENOXACINE",
+        "FLUVOXAMINE"
+    ],
+    "ROSUVASTATINE": [
+        "CICLOSPORINE",
+        "DAROLUTAMIDE",
+        "FOSTAMATINIB",
+        "FOSTEMSAVIR",
+        "INHIBITEURS",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "PONATINIB",
+        "ROLAPITANT",
+        "T\u00c9DIZOLIDE",
+        "VELPATASVIR"
+    ],
+    "ROXADUSTAT": [
+        "CALCIUM",
+        "FER",
+        "GEMFIBROZIL",
+        "INHIBITEURS",
+        "HMG-COA",
+        "R\u00c9DUCTASE",
+        "STATINES",
+        "MAGN\u00c9SIUM",
+        "R\u00c9SINES",
+        "CH\u00c9LATRICES"
+    ],
+    "ROXITHROMYCINE": [
+        "ATORVASTATINE",
+        "CICLOSPORINE",
+        "MIDAZOLAM",
+        "SIMVASTATINE",
+        "SUBSTANCES",
+        "SUSCEPTIBLES",
+        "DONNER",
+        "TORSADES",
+        "POINTES",
+        "TH\u00c9OPHYLLINE",
+        "EXTRAPOLATION",
+        "AMINOPHYLLINE"
+    ],
+    "RUFINAMIDE": [
+        "ESTROPROGESTATIFS",
+        "CONTRACEPTIFS",
+        "VALPRO\u00cfQUE",
+        "ACIDE",
+        "EXTRAPOLATION",
+        "VALPROMIDE"
+    ],
+    "SACITUZUMAB": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "RIFAMPICINE"
+    ],
+    "SACUBITRIL": [
+        "INHIBITEURS",
+        "ENZYME",
+        "CONVERSION"
+    ],
+    "SALMETEROL": [
+        "ITRACONAZOLE",
+        "KETOCONAZOLE",
+        "OMBITASVIR",
+        "PARITAPR\u00c9VIR"
+    ],
+    "SELEXIPAG": [
+        "CLOPIDOGREL",
+        "DEFERASIROX",
+        "GEMFIBROZIL",
+        "T\u00c9RIFLUNOMIDE",
+        "TRIMETHOPRIME"
+    ],
+    "SELPERCATINIB": [
+        "HORMONES",
+        "THYRO\u00cfDIENNES",
+        "REPAGLINIDE"
+    ],
+    "SERTRALINE": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "PAMPLEMOUSSE",
+        "JUS",
+        "FRUIT",
+        "PIMOZIDE"
+    ],
+    "S\u00c9TRONS": [
+        "APOMORPHINE"
+    ],
+    "SILDENAFIL": [
+        "JOSAMYCINE",
+        "OMBITASVIR",
+        "PARITAPR\u00c9VIR"
+    ],
+    "SILODOSINE": [
+        "INHIBITEURS",
+        "CYP3A4"
+    ],
+    "SIMVASTATINE": [
+        "AMIODARONE",
+        "AMLODIPINE",
+        "APALUTAMIDE",
+        "AZITHROMYCINE",
+        "CARBAMAZEPINE",
+        "CICLOSPORINE",
+        "DANAZOL",
+        "DILTIAZEM",
+        "DRONEDARONE",
+        "FLUCONAZOLE",
+        "GL\u00c9CAPR\u00c9VIR",
+        "PIBRENTASVIR",
+        "INHIBITEURS",
+        "CYP3A4",
+        "MILLEPERTUIS",
+        "OMBITASVIR",
+        "PARITAPR\u00c9VIR",
+        "PAMPLEMOUSSE",
+        "JUS",
+        "FRUIT",
+        "PONATINIB",
+        "RANOLAZINE",
+        "RIFAMPICINE",
+        "ROXITHROMYCINE",
+        "STIRIPENTOL",
+        "VERAPAMIL"
+    ],
+    "SIROLIMUS": [
+        "CICLOSPORINE",
+        "INHIBITEURS",
+        "ENZYME",
+        "CONVERSION",
+        "OMBITASVIR",
+        "PARITAPR\u00c9VIR",
+        "VERAPAMIL"
+    ],
+    "SODIUM (BICARBONATE DE)": [
+        "LITHIUM"
+    ],
+    "SODIUM (CHLORURE DE)": [
+        "LITHIUM"
+    ],
+    "SOFOSBUVIR": [
+        "AMIODARONE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "MILLEPERTUIS"
+    ],
+    "SORBITOL": [
+        "LAMIVUDINE",
+        "POLYSTYR\u00c8NE",
+        "SULFONATE",
+        "CALCIUM",
+        "SODIUM"
+    ],
+    "SOTORASIB": [
+        "ANTIS\u00c9CR\u00c9TOIRES",
+        "ANTIHISTAMINIQUES",
+        "H2",
+        "INHIBITEURS",
+        "POMPE",
+        "PROTONS",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "RIFAMPICINE"
+    ],
+    "SPERMICIDES": [
+        "M\u00c9DICAMENTS",
+        "UTILIS\u00c9S",
+        "VAGINALE"
+    ],
+    "SPIRAMYCINE": [
+        "LEVODOPA"
+    ],
+    "SPIRONOLACTONE": [
+        "INHIBITEURS",
+        "ENZYME",
+        "CONVERSION",
+        "MITOTANE"
+    ],
+    "STAVUDINE": [
+        "ISONIAZIDE",
+        "PENTAMIDINE",
+        "RIBAVIRINE",
+        "THALIDOMIDE",
+        "ZIDOVUDINE"
+    ],
+    "STIRIPENTOL": [
+        "ATORVASTATINE",
+        "CAFEINE",
+        "CLOBAZAM",
+        "DIAZEPAM",
+        "DIHYDROERGOTAMINE",
+        "ERGOTAMINE",
+        "HALOFANTRINE",
+        "IMMUNOSUPPRESSEURS",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "MIDAZOLAM",
+        "PIMOZIDE",
+        "QUINIDINE",
+        "SIMVASTATINE",
+        "TH\u00c9OPHYLLINE",
+        "EXTRAPOLATION",
+        "AMINOPHYLLINE"
+    ],
+    "STRONTIUM": [
+        "CALCIUM",
+        "CYCLINES",
+        "FER",
+        "FLUOROQUINOLONES",
+        "ZINC"
+    ],
+    "SUBSTANCES \u00c0 ABSORPTION R\u00c9DUITE PAR LES TOPIQUES GASTRO-INTESTINAUX, ANTIACIDES ET ": [],
+    "ADSORBANTS": [
+        "TOPIQUES",
+        "GASTRO-INTESTINAUX",
+        "ANTIACIDES",
+        "ADSORBANTS"
+    ],
+    "SUBSTANCES SUSCEPTIBLES DE DONNER DES TORSADES DE POINTES": [
+        "ANAGRELIDE",
+        "ANTIPARASITAIRES",
+        "SUSCEPTIBLES",
+        "DONNER",
+        "TORSADES",
+        "POINTES",
+        "ARSENIEUX",
+        "AZITHROMYCINE",
+        "B\u00caTA-BLOQUANTS",
+        "INSUFFISANCE",
+        "CARDIAQUE",
+        "BRADYCARDISANTS",
+        "CIPROFLOXACINE",
+        "CLARITHROMYCINE",
+        "CRIZOTINIB",
+        "D\u00c9LAMANID",
+        "GLASD\u00c9GIB",
+        "HYDROXYCHLOROQUINE",
+        "HYPOKALI\u00c9MIANTS",
+        "LEVOFLOXACINE",
+        "M\u00c9DICAMENTS",
+        "ORIGINE",
+        "D",
+        "HYPOGONADISME",
+        "MASCULIN",
+        "METHADONE",
+        "NEUROLEPTIQUES",
+        "NORFLOXACINE",
+        "ONDANSETRON",
+        "ROXITHROMYCINE",
+        "SULFAM\u00c9THOXAZOLE",
+        "TRIM\u00c9THOPRIME",
+        "TORSADOG\u00c8NES",
+        "ARS\u00c9NIEUX",
+        "M\u00c9THADONE"
+    ],
+    "SUBSTRATS \u00c0 RISQUE DU CYP3A4": [
+        "CRIZOTINIB",
+        "ID\u00c9LALISIB",
+        "INHIBITEURS",
+        "CYP3A4"
+    ],
+    "SUCRALFATE": [
+        "DIGOXINE",
+        "FLUOROQUINOLONES",
+        "HORMONES",
+        "THYRO\u00cfDIENNES",
+        "PH\u00c9NYTO\u00cfNE",
+        "EXTRAPOLATION",
+        "FOSPH\u00c9NYTO\u00cfNE",
+        "SULPIRIDE"
+    ],
+    "SUFENTANIL": [
+        "INHIBITEURS",
+        "CYP3A4"
+    ],
+    "SULFAFURAZOL": [
+        "PH\u00c9NYTO\u00cfNE",
+        "EXTRAPOLATION",
+        "FOSPH\u00c9NYTO\u00cfNE"
+    ],
+    "SULFAMETHIZOL": [
+        "METHENAMINE",
+        "PH\u00c9NYTO\u00cfNE",
+        "EXTRAPOLATION",
+        "FOSPH\u00c9NYTO\u00cfNE"
+    ],
+    "SULFAMETHOXAZOLE": [
+        "ANTIVITAMINES",
+        "K",
+        "PH\u00c9NYTO\u00cfNE",
+        "EXTRAPOLATION",
+        "FOSPH\u00c9NYTO\u00cfNE"
+    ],
+    "SULFAM\u00c9THOXAZOLE + TRIM\u00c9THOPRIME": [
+        "SUBSTANCES",
+        "SUSCEPTIBLES",
+        "DONNER",
+        "TORSADES",
+        "POINTES",
+        "SULFAMIDES",
+        "HYPOGLYC\u00c9MIANTS"
+    ],
+    "SULFAMIDES ANTIBACT\u00c9RIENS": [
+        "METHOTREXATE"
+    ],
+    "SULFAMIDES HYPOGLYC\u00c9MIANTS": [
+        "ALCOOL",
+        "BOISSON",
+        "EXCIPIENT",
+        "ANALOGUES",
+        "SOMATOSTATINE",
+        "B\u00caTA-2",
+        "MIM\u00c9TIQUES",
+        "B\u00caTA-BLOQUANTS",
+        "ESMOLOL",
+        "Y",
+        "COMPRIS",
+        "COLLYRES",
+        "INSUFFISANCE",
+        "CARDIAQUE",
+        "CHLORPROMAZINE",
+        "CLARITHROMYCINE",
+        "DANAZOL",
+        "FLUCONAZOLE",
+        "INHIBITEURS",
+        "ENZYME",
+        "CONVERSION",
+        "MICONAZOLE",
+        "SULFAM\u00c9THOXAZOLE",
+        "TRIM\u00c9THOPRIME"
+    ],
+    "SULFASALAZINE": [
+        "DIGOXINE",
+        "PONATINIB",
+        "T\u00c9DIZOLIDE"
+    ],
+    "SULFINPYRAZONE": [
+        "CICLOSPORINE"
+    ],
+    "SULPIRIDE": [
+        "SUCRALFATE"
+    ],
+    "SULPROSTONE": [
+        "M\u00c9THYLERGOM\u00c9TRINE"
+    ],
+    "SUNITINIB": [
+        "GRAZOPREVIR",
+        "ELBASVIR"
+    ],
+    "SUXAMETHONIUM": [
+        "ANTICHOLINEST\u00c9RASIQUES"
+    ],
+    "SYMPATHOMIM\u00c9TIQUES ALPHA (VOIES ORALE ET/OU NASALE)": [
+        "ALCALO\u00cfDES",
+        "ERGOT",
+        "SEIGLE",
+        "DOPAMINERGIQUES",
+        "VASOCONSTRICTEURS",
+        "IMAO",
+        "IRR\u00c9VERSIBLES",
+        "SYMPATHOMIM\u00c9TIQUES",
+        "INDIRECTS"
+    ],
+    "SYMPATHOMIM\u00c9TIQUES ALPHA ET B\u00caTA (VOIE IM ET IV)": [
+        "ANESTH\u00c9SIQUES",
+        "VOLATILS",
+        "HALOG\u00c9N\u00c9S",
+        "ANTID\u00c9PRESSEURS",
+        "IMIPRAMINIQUES",
+        "IMAO",
+        "IRR\u00c9VERSIBLES",
+        "IMAO-A",
+        "R\u00c9VERSIBLES",
+        "Y",
+        "COMPRIS",
+        "OXAZOLIDINONES",
+        "BLEU",
+        "M\u00c9THYL\u00c8NE",
+        "M\u00c9DICAMENTS",
+        "MIXTES",
+        "ADR\u00c9NERGIQUES-S\u00c9ROTONINERGIQUES"
+    ],
+    "SYMPATHOMIM\u00c9TIQUES INDIRECTS": [
+        "AUTRES",
+        "SYMPATHOMIMETIQUES",
+        "INDIRECTS",
+        "ALCALO\u00cfDES",
+        "ERGOT",
+        "SEIGLE",
+        "DOPAMINERGIQUES",
+        "VASOCONSTRICTEURS",
+        "ANESTH\u00c9SIQUES",
+        "VOLATILS",
+        "HALOG\u00c9N\u00c9S",
+        "IMAO",
+        "IRR\u00c9VERSIBLES",
+        "IMAO-A",
+        "R\u00c9VERSIBLES",
+        "Y",
+        "COMPRIS",
+        "OXAZOLIDINONES",
+        "BLEU",
+        "M\u00c9THYL\u00c8NE",
+        "SYMPATHOMIM\u00c9TIQUES",
+        "ALPHA",
+        "VOIES",
+        "ORALE",
+        "NASALE"
+    ],
+    "TACROLIMUS": [
+        "AMINOSIDES",
+        "AMIODARONE",
+        "AMPHOTERICINE",
+        "B",
+        "ANTI-INFLAMMATOIRES",
+        "ST\u00c9RO\u00cfDIENS",
+        "CLINDAMYCINE",
+        "DABIGATRAN",
+        "DANAZOL",
+        "DIUR\u00c9TIQUES",
+        "\u00c9PARGNEURS",
+        "POTASSIUM",
+        "SEULS",
+        "ASSOCI\u00c9S",
+        "GRAZOPREVIR",
+        "ELBASVIR",
+        "JOSAMYCINE",
+        "LANSOPRAZOLE",
+        "MIFAMURTIDE",
+        "OMBITASVIR",
+        "PARITAPR\u00c9VIR",
+        "OMEPRAZOLE",
+        "TIGECYCLINE",
+        "VERAPAMIL"
+    ],
+    "TALAZOPARIB": [
+        "AMIODARONE",
+        "CICLOSPORINE",
+        "CLARITHROMYCINE",
+        "DRONEDARONE",
+        "ERYTHROMYCINE",
+        "INHIBITEURS",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "ITRACONAZOLE",
+        "QUINIDINE",
+        "VERAPAMIL"
+    ],
+    "TAMOXIFENE": [
+        "ANTIVITAMINES",
+        "K",
+        "BUPROPION",
+        "DULOXETINE",
+        "FLUOXETINE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "MILLEPERTUIS",
+        "PAROXETINE",
+        "QUINIDINE",
+        "ROLAPITANT",
+        "TERBINAFINE"
+    ],
+    "TAMSULOSINE": [
+        "AMIODARONE",
+        "DILTIAZEM",
+        "INHIBITEURS",
+        "CYP3A4",
+        "VERAPAMIL"
+    ],
+    "T\u00c9DIZOLIDE": [
+        "IMATINIB",
+        "LAPATINIB",
+        "METHOTREXATE",
+        "ROSUVASTATINE",
+        "SULFASALAZINE",
+        "TOPOTECANE"
+    ],
+    "TELBIVUDINE": [
+        "PEG-INTERFERON",
+        "ALFA-2A"
+    ],
+    "TELITHROMYCINE": [
+        "ATORVASTATINE",
+        "DIGOXINE",
+        "IMMUNOSUPPRESSEURS",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "MILLEPERTUIS",
+        "RIFAMPICINE",
+        "VENLAFAXINE"
+    ],
+    "TEMSIROLIMUS": [
+        "INHIBITEURS",
+        "ENZYME",
+        "CONVERSION"
+    ],
+    "TENOFOVIR ALAF\u00c9NAMIDE": [
+        "P",
+        "A",
+        "S",
+        "SODIQUE"
+    ],
+    "T\u00c9NOFOVIR ALAF\u00c9NAMIDE": [
+        "CICLOSPORINE",
+        "COBICISTAT",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "ITRACONAZOLE",
+        "KETOCONAZOLE",
+        "RIFAMPICINE",
+        "VERAPAMIL"
+    ],
+    "TENOFOVIR DISOPROXIL": [
+        "ANTI-INFLAMMATOIRES",
+        "ST\u00c9RO\u00cfDIENS",
+        "ATAZANAVIR",
+        "DIDANOSINE",
+        "L\u00c9DIPASVIR",
+        "P",
+        "A",
+        "S",
+        "SODIQUE"
+    ],
+    "TERBINAFINE": [
+        "CICLOSPORINE",
+        "CODEINE",
+        "MEQUITAZINE",
+        "METOPROLOL",
+        "PROPAFENONE",
+        "RIFAMPICINE",
+        "TAMOXIFENE",
+        "TETRABENAZINE",
+        "TRAMADOL"
+    ],
+    "T\u00c9RIFLUNOMIDE": [
+        "SELEXIPAG",
+        "VACCINS",
+        "VIVANTS",
+        "ATT\u00c9NU\u00c9S"
+    ],
+    "TETRABENAZINE": [
+        "BUPROPION",
+        "CINACALCET",
+        "DOPAMINERGIQUES",
+        "DULOXETINE",
+        "FLUOXETINE",
+        "IMAO",
+        "IRR\u00c9VERSIBLES",
+        "LEVODOPA",
+        "PAROXETINE",
+        "QUINIDINE",
+        "TERBINAFINE"
+    ],
+    "THALIDOMIDE": [
+        "DIDANOSINE",
+        "STAVUDINE"
+    ],
+    "THEOPHYLLINE": [
+        "GIVOSIRAN",
+        "LITHIUM",
+        "PROPAFENONE",
+        "V\u00c9MURAF\u00c9NIB"
+    ],
+    "TH\u00c9OPHYLLINE (ET, PAR EXTRAPOLATION, AMINOPHYLLINE)": [
+        "CIMETIDINE",
+        "CIPROFLOXACINE",
+        "CLARITHROMYCINE",
+        "DIPYRIDAMOLE",
+        "ENOXACINE",
+        "ERYTHROMYCINE",
+        "FLUCONAZOLE",
+        "FLUVOXAMINE",
+        "HALOTHANE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "XANTHINE",
+        "OXYDASE",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "JOSAMYCINE",
+        "MEXILETINE",
+        "MILLEPERTUIS",
+        "NORFLOXACINE",
+        "PEFLOXACINE",
+        "PENTOXIFYLLINE",
+        "RIFAMPICINE",
+        "ROXITHROMYCINE",
+        "STIRIPENTOL",
+        "TIABENDAZOLE",
+        "TICLOPIDINE"
+    ],
+    "THROMBOLYTIQUES": [
+        "ANTIAGR\u00c9GANTS",
+        "PLAQUETTAIRES",
+        "ANTICOAGULANTS",
+        "D\u00c9FIBROTIDE",
+        "H\u00c9PARINES",
+        "CURATIVES",
+        "SUJET",
+        "\u00c2G\u00c9"
+    ],
+    "TIABENDAZOLE": [
+        "TH\u00c9OPHYLLINE",
+        "EXTRAPOLATION",
+        "AMINOPHYLLINE"
+    ],
+    "TIAGABINE": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "RIFAMPICINE"
+    ],
+    "TIANEPTINE": [
+        "IMAO",
+        "IRR\u00c9VERSIBLES"
+    ],
+    "TIBOLONE": [
+        "ANTIVITAMINES",
+        "K"
+    ],
+    "TICAGRELOR": [
+        "ACIDE",
+        "ACETYLSALICYLIQUE",
+        "DABIGATRAN",
+        "DILTIAZEM",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "MILLEPERTUIS",
+        "OMBITASVIR",
+        "PARITAPR\u00c9VIR",
+        "PAMPLEMOUSSE",
+        "JUS",
+        "FRUIT",
+        "RIFAMPICINE",
+        "VERAPAMIL"
+    ],
+    "TICLOPIDINE": [
+        "ACIDE",
+        "ACETYLSALICYLIQUE",
+        "CICLOSPORINE",
+        "KETAMINE",
+        "PH\u00c9NYTO\u00cfNE",
+        "EXTRAPOLATION",
+        "FOSPH\u00c9NYTO\u00cfNE",
+        "TH\u00c9OPHYLLINE",
+        "AMINOPHYLLINE"
+    ],
+    "TIGECYCLINE": [
+        "CICLOSPORINE",
+        "TACROLIMUS"
+    ],
+    "TOLVAPTAN": [
+        "AMIODARONE",
+        "DILTIAZEM",
+        "FLUCONAZOLE",
+        "INHIBITEURS",
+        "CYP3A4",
+        "PAMPLEMOUSSE",
+        "JUS",
+        "FRUIT",
+        "VERAPAMIL"
+    ],
+    "TOPIQUES GASTRO-INTESTINAUX, ANTIACIDES ET ADSORBANTS": [
+        "M\u00c9DICAMENTS",
+        "ADMINISTR\u00c9S",
+        "ORALE",
+        "POLYSTYR\u00c8NE",
+        "SULFONATE",
+        "CALCIUM",
+        "SODIUM",
+        "SUBSTANCES",
+        "ABSORPTION",
+        "R\u00c9DUITE",
+        "TOPIQUES",
+        "GASTRO-INTESTINAUX",
+        "ANTIACIDES",
+        "ADSORBANTS"
+    ],
+    "TOPIRAMATE": [
+        "CARBAMAZEPINE",
+        "ESTROPROGESTATIFS",
+        "CONTRACEPTIFS",
+        "LITHIUM",
+        "OXCARBAZEPINE",
+        "VALPRO\u00cfQUE",
+        "ACIDE",
+        "EXTRAPOLATION",
+        "VALPROMIDE"
+    ],
+    "TOPOTECANE": [
+        "T\u00c9DIZOLIDE"
+    ],
+    "TORSADOG\u00c8NES (SAUF ARS\u00c9NIEUX, ANTIPARASITAIRES, NEUROLEPTIQUES, M\u00c9THADONE...)": [
+        "SUBSTANCES",
+        "SUSCEPTIBLES",
+        "DONNER",
+        "TORSADES",
+        "POINTES"
+    ],
+    "TRABECT\u00c9DINE": [
+        "ITRACONAZOLE"
+    ],
+    "TRAITEMENTS DE SUBSTITUTION NICOTINIQUE": [
+        "M\u00c9DICAMENTS",
+        "RISQUE",
+        "LORS",
+        "SEVRAGE",
+        "TABAGIQUE"
+    ],
+    "TRAMADOL": [
+        "ANTICOAGULANTS",
+        "BUPROPION",
+        "CINACALCET",
+        "DULOXETINE",
+        "FLUOXETINE",
+        "IMAO",
+        "IRR\u00c9VERSIBLES",
+        "IMAO-A",
+        "R\u00c9VERSIBLES",
+        "Y",
+        "COMPRIS",
+        "OXAZOLIDINONES",
+        "BLEU",
+        "M\u00c9THYL\u00c8NE",
+        "IMAO-B",
+        "INHIBITEURS",
+        "S\u00c9LECTIFS",
+        "RECAPTURE",
+        "S\u00c9ROTONINE",
+        "ONDANSETRON",
+        "PAROXETINE",
+        "QUINIDINE",
+        "TERBINAFINE",
+        "VENLAFAXINE"
+    ],
+    "TRASTUZUMAB EMTANSINE": [
+        "INHIBITEURS",
+        "CYP3A4"
+    ],
+    "TR\u00c9TINO\u00cfNE": [
+        "INHIBITEURS",
+        "CYP3A4"
+    ],
+    "TRICLABENDAZOLE": [
+        "DIHYDROERGOTAMINE",
+        "ERGOTAMINE",
+        "PIMOZIDE",
+        "QUINIDINE"
+    ],
+    "TRIENTINE": [
+        "FER"
+    ],
+    "TRIMETHOPRIME": [
+        "CICLOSPORINE",
+        "METHOTREXATE",
+        "PACLITAXEL",
+        "PYRIMETHAMINE",
+        "REPAGLINIDE",
+        "SELEXIPAG"
+    ],
+    "TRIPTANS": [
+        "ALCALO\u00cfDES",
+        "ERGOT",
+        "SEIGLE",
+        "VASOCONSTRICTEURS",
+        "INHIBITEURS",
+        "S\u00c9LECTIFS",
+        "RECAPTURE",
+        "S\u00c9ROTONINE"
+    ],
+    "TRIPTANS M\u00c9TABOLIS\u00c9S PAR LA MAO": [
+        "IMAO",
+        "IRR\u00c9VERSIBLES",
+        "IMAO-A",
+        "R\u00c9VERSIBLES",
+        "Y",
+        "COMPRIS",
+        "OXAZOLIDINONES",
+        "BLEU",
+        "M\u00c9THYL\u00c8NE",
+        "IMAO-B"
+    ],
+    "TRIPTANS NON M\u00c9TABOLIS\u00c9S PAR LA MAO": [
+        "IMAO",
+        "IRR\u00c9VERSIBLES",
+        "IMAO-A",
+        "R\u00c9VERSIBLES",
+        "Y",
+        "COMPRIS",
+        "OXAZOLIDINONES",
+        "BLEU",
+        "M\u00c9THYL\u00c8NE",
+        "IMAO-B"
+    ],
+    "TUCATINIB": [
+        "GEMFIBROZIL"
+    ],
+    "ULIPRISTAL": [
+        "ANTIS\u00c9CR\u00c9TOIRES",
+        "ANTIHISTAMINIQUES",
+        "H2",
+        "INHIBITEURS",
+        "POMPE",
+        "PROTONS",
+        "CYPROTERONE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "MILLEPERTUIS",
+        "PROGESTATIFS",
+        "CONTRACEPTIFS",
+        "ASSOCI\u00c9S",
+        "ESTROG\u00c8NE",
+        "RIFAMPICINE"
+    ],
+    "VACCINS VIVANTS ATT\u00c9NU\u00c9S": [
+        "ABATACEPT",
+        "ANTICORPS",
+        "MONOCLONAUX",
+        "ANTI-TNF",
+        "ALPHA",
+        "B\u00c9LATACEPT",
+        "CYTOTOXIQUES",
+        "DIM\u00c9THYLE",
+        "FUMARATE",
+        "GLOBULINES",
+        "ANTILYMPHOCYTAIRES",
+        "GLUCOCORTICO\u00cfDES",
+        "HYDROCORTISONE",
+        "HYDROXYCARBAMIDE",
+        "IMMUNOSUPPRESSEURS",
+        "MYCOPHENOLATE",
+        "MOFETIL",
+        "SODIQUE",
+        "T\u00c9RIFLUNOMIDE"
+    ],
+    "VALGANCICLOVIR": [
+        "FLUCYTOSINE",
+        "MARIBAVIR"
+    ],
+    "VALPRO\u00cfQUE (ACIDE) ET, PAR EXTRAPOLATION, VALPROMIDE": [
+        "ACETAZOLAMIDE",
+        "AZTREONAM",
+        "CARBAMAZEPINE",
+        "FELBAMATE",
+        "LAMOTRIGINE",
+        "NIMODIPINE",
+        "P\u00c9NEMS",
+        "PH\u00c9NOBARBITAL",
+        "EXTRAPOLATION",
+        "PRIMIDONE",
+        "PH\u00c9NYTO\u00cfNE",
+        "FOSPH\u00c9NYTO\u00cfNE",
+        "RIFAMPICINE",
+        "RUFINAMIDE",
+        "TOPIRAMATE",
+        "ZIDOVUDINE",
+        "ZONISAMIDE"
+    ],
+    "VANCOMYCINE": [
+        "PIP\u00c9RACILLINE",
+        "TAZOBACTAM"
+    ],
+    "VARDENAFIL": [
+        "PAMPLEMOUSSE",
+        "JUS",
+        "FRUIT"
+    ],
+    "VELPATASVIR": [
+        "ANTIS\u00c9CR\u00c9TOIRES",
+        "INHIBITEURS",
+        "POMPE",
+        "PROTONS",
+        "EFAVIRENZ",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "MILLEPERTUIS",
+        "OXCARBAZEPINE",
+        "RIFABUTINE",
+        "RIFAMPICINE",
+        "ROSUVASTATINE"
+    ],
+    "V\u00c9MURAF\u00c9NIB": [
+        "BUPROPION",
+        "ESTROPROGESTATIFS",
+        "CONTRACEPTIFS",
+        "IFOSFAMIDE",
+        "IMMUNOSUPPRESSEURS",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "THEOPHYLLINE"
+    ],
+    "V\u00c9N\u00c9TOCLAX": [
+        "AMIODARONE",
+        "DILTIAZEM",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "MILLEPERTUIS",
+        "PAMPLEMOUSSE",
+        "JUS",
+        "FRUIT",
+        "VERAPAMIL"
+    ],
+    "VENLAFAXINE": [
+        "CLARITHROMYCINE",
+        "ERYTHROMYCINE",
+        "INHIBITEURS",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "ITRACONAZOLE",
+        "KETOCONAZOLE",
+        "TELITHROMYCINE",
+        "TRAMADOL",
+        "VORICONAZOLE"
+    ],
+    "VERAPAMIL": [
+        "AFATINIB",
+        "AMIODARONE",
+        "ANTIHYPERTENSEURS",
+        "CENTRAUX",
+        "ATORVASTATINE",
+        "B\u00caTA-BLOQUANTS",
+        "ESMOLOL",
+        "Y",
+        "COMPRIS",
+        "COLLYRES",
+        "INSUFFISANCE",
+        "CARDIAQUE",
+        "BUSPIRONE",
+        "CARBAMAZEPINE",
+        "CICLOSPORINE",
+        "COLCHICINE",
+        "DABIGATRAN",
+        "DANTROLENE",
+        "DIGOXINE",
+        "DOXORUBICINE",
+        "DRONEDARONE",
+        "ERYTHROMYCINE",
+        "EVEROLIMUS",
+        "FIDAXOMICINE",
+        "IBRUTINIB",
+        "INHIBITEURS",
+        "CYP3A4",
+        "IVABRADINE",
+        "MIDAZOLAM",
+        "MILLEPERTUIS",
+        "NALOXEGOL",
+        "NINT\u00c9DANIB",
+        "OLAPARIB",
+        "PAMPLEMOUSSE",
+        "JUS",
+        "FRUIT",
+        "PIMOZIDE",
+        "QUINIDINE",
+        "SIMVASTATINE",
+        "SIROLIMUS",
+        "TACROLIMUS",
+        "TALAZOPARIB",
+        "TAMSULOSINE",
+        "T\u00c9NOFOVIR",
+        "ALAF\u00c9NAMIDE",
+        "TICAGRELOR",
+        "TOLVAPTAN",
+        "V\u00c9N\u00c9TOCLAX"
+    ],
+    "VIDARABINE": [
+        "ALLOPURINOL"
+    ],
+    "VINCA-ALCALO\u00cfDES CYTOTOXIQUES": [
+        "FLUCONAZOLE",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "CYP3A4",
+        "MILLEPERTUIS",
+        "MITOMYCINE",
+        "C"
+    ],
+    "VISMOD\u00c9GIB": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "MILLEPERTUIS"
+    ],
+    "VITAMINE A": [
+        "CYCLINES",
+        "R\u00c9TINO\u00cfDES"
+    ],
+    "VITAMINE D": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "ORLISTAT",
+        "RIFAMPICINE"
+    ],
+    "VORICONAZOLE": [
+        "AMIODARONE",
+        "ANTIVITAMINES",
+        "K",
+        "EFAVIRENZ",
+        "FLUCLOXACILLINE",
+        "GLIPIZIDE",
+        "IMMUNOSUPPRESSEURS",
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "INHIBITEURS",
+        "PROT\u00c9ASES",
+        "BOOST\u00c9S",
+        "RITONAVIR",
+        "L\u00c9TERMOVIR",
+        "METHADONE",
+        "MILLEPERTUIS",
+        "NEVIRAPINE",
+        "QUINIDINE",
+        "RIFABUTINE",
+        "RIFAMPICINE",
+        "VENLAFAXINE"
+    ],
+    "VOXELOTOR": [
+        "INDUCTEURS",
+        "ENZYMATIQUES",
+        "RIFAMPICINE"
+    ],
+    "YOHIMBINE": [
+        "ANTIHYPERTENSEURS",
+        "CENTRAUX"
+    ],
+    "ZIDOVUDINE": [
+        "AMPHOTERICINE",
+        "B",
+        "DAPSONE",
+        "FLUCYTOSINE",
+        "GANCICLOVIR",
+        "RIBAVIRINE",
+        "RIFAMPICINE",
+        "STAVUDINE",
+        "VALPRO\u00cfQUE",
+        "ACIDE",
+        "EXTRAPOLATION",
+        "VALPROMIDE"
+    ],
+    "ZINC": [
+        "CALCIUM",
+        "CYCLINES",
+        "FER",
+        "FLUOROQUINOLONES",
+        "INHIBITEURS",
+        "D",
+        "INT\u00c9GRASE",
+        "STRONTIUM"
+    ],
+    "ZOLPIDEM": [
+        "INHIBITEURS",
+        "CYP3A4",
+        "RIFAMPICINE"
+    ],
+    "ZONISAMIDE": [
+        "VALPRO\u00cfQUE",
+        "ACIDE",
+        "EXTRAPOLATION",
+        "VALPROMIDE"
+    ],
+    "ZOPICLONE": [
+        "INHIBITEURS",
+        "CYP3A4",
+        "RIFAMPICINE"
+    ]
+}
