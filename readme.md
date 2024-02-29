@@ -5,7 +5,7 @@
 
 # Project Documentation
 
-This project is linked to {link} and was undertaken to gather additional data for the project, specifically in the following areas:
+This project is linked to [{link}](https://github.com/GSBlackdragon/MediMate) and was undertaken to gather additional data for the project, specifically in the following areas:
 
 ## Data on Allergies
 
